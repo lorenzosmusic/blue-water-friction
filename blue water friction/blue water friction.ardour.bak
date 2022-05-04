@@ -6828,7 +6828,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
       <Window name="PM-6106-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-6118-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-6119-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-29545-38799" visible="0" x-off="484" y-off="0" x-size="593" y-size="212" custom-ui="0"/>
+      <Window name="P-29545-38799" visible="0" x-off="1043" y-off="0" x-size="593" y-size="212" custom-ui="0"/>
       <Window name="PM-38799-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-38809" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-38809-38845" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
@@ -6841,13 +6841,13 @@ this is the original drum setting but the volume was originally -5.4 from the ot
       <Window name="PM-38839-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-38841-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-38842-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-38809-38866" visible="0" x-off="484" y-off="0" x-size="593" y-size="212" custom-ui="1"/>
+      <Window name="P-38809-38866" visible="0" x-off="1043" y-off="0" x-size="593" y-size="212" custom-ui="1"/>
       <Window name="PM-38866-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-29545-38875" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="PM-38875-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-29545-38899" visible="0" x-off="351" y-off="0" x-size="858" y-size="713" custom-ui="1"/>
+      <Window name="P-29545-38899" visible="0" x-off="910" y-off="0" x-size="858" y-size="713" custom-ui="1"/>
       <Window name="PM-38899-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-164-38988" visible="0" x-off="351" y-off="0" x-size="858" y-size="713" custom-ui="1"/>
+      <Window name="P-164-38988" visible="0" x-off="910" y-off="0" x-size="858" y-size="713" custom-ui="1"/>
       <Window name="PM-38988-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-39125" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-39125-39139" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
