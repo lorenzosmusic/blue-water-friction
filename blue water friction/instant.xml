@@ -2,7 +2,7 @@
 <instant>
   <LastUsedSnapshot name="blue water friction"/>
   <Main x="0" y="29" w="1920" h="1019" current-tab="editor"/>
-  <Editor id="41" edit-horizontal-pane-pos="0.89999997615814209" notebook-shrunk="0" edit-vertical-pane-pos="0.89999997615814209" mixer-width="Wide" zoom-focus="ZoomFocusPlayhead" zoom="5734" snap-to="SnapToBeatDiv4" snap-mode="SnapNormal" internal-snap-to="SnapToBeatDiv2" internal-snap-mode="SnapNormal" pre-internal-snap-to="SnapToBeatDiv4" pre-internal-snap-mode="SnapNormal" edit-point="EditAtMouse" visible-track-count="-1" playhead="64658" left-frame="0" y-origin="999" show-measures="1" maximised="0" follow-playhead="1" stationary-playhead="0" region-list-sort-type="ByEndInFile" mouse-mode="MouseObject" join-object-range="0" show-editor-mixer="1" show-editor-list="1" editor-list-page="1" show-marker-lines="0" nudge-clock-value="220500">
+  <Editor id="41" edit-horizontal-pane-pos="0.89999997615814209" notebook-shrunk="0" edit-vertical-pane-pos="0.89999997615814209" mixer-width="Wide" zoom-focus="ZoomFocusPlayhead" zoom="5959" snap-to="SnapToBeatDiv2" snap-mode="SnapNormal" internal-snap-to="SnapToBeatDiv16" internal-snap-mode="SnapNormal" pre-internal-snap-to="SnapToBeatDiv2" pre-internal-snap-mode="SnapNormal" edit-point="EditAtMouse" visible-track-count="-1" playhead="4715053" left-frame="0" y-origin="330" show-measures="1" maximised="0" follow-playhead="1" stationary-playhead="0" region-list-sort-type="ByEndInFile" mouse-mode="MouseObject" join-object-range="0" show-editor-mixer="1" show-editor-list="1" editor-list-page="1" show-marker-lines="0" nudge-clock-value="220500">
     <Window name="Editor" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" tabbed="1"/>
     <Buttons>
       <Press/>
@@ -10,7 +10,10 @@
     </Buttons>
     <Selection>
       <Regions>
-        <Region id="54265"/>
+        <Region id="30539"/>
+        <Region id="29882"/>
+        <Region id="29828"/>
+        <Region id="29801"/>
       </Regions>
       <Marker id="256" start="0"/>
     </Selection>
