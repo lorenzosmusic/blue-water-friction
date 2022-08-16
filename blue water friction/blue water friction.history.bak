@@ -1540,4 +1540,26 @@
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
+  <UndoTransaction tv-sec="1660621311" tv-usec="927729" name="set loop range from region">
+    <MementoCommand obj-id="2362" type-name="ARDOUR::Location">
+      <Location id="2362" name="Loop" start="134289" end="1412527" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
+      <Location id="2362" name="Loop" start="636632" end="795790" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="5959" left-frame="0" y-origin="792">
+        <Selection>
+          <Regions>
+            <Region id="54265"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="5959" left-frame="0" y-origin="792">
+        <Selection>
+          <Regions>
+            <Region id="54265"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
 </UndoHistory>
