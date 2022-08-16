@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="blue water friction" sample-rate="44100" end-is-free="0" id-counter="92588" name-counter="1" event-counter="264770" vca-counter="1">
+<Session version="3002" name="blue water friction" sample-rate="44100" end-is-free="0" id-counter="104014" name-counter="1" event-counter="276313" vca-counter="1">
   <ProgramVersion created-with="Ardour 1:5.12.0-3" modified-with="Ardour 1:5.12.0-3ubuntu4.1"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -167,6 +167,7 @@
     <Source name="trumpet-1.wav" type="audio" flags="" id="53285" captured-for="trumpet" channel="0" origin="" gain="1"/>
     <Source name="trumpet-2.wav" type="audio" flags="" id="53330" captured-for="trumpet" channel="0" origin="" gain="1"/>
     <Source name="MIDI-1.mid" type="midi" flags="Writable,CanRename" id="54038" origin=""/>
+    <Source name="keys jazz guit-1.wav" type="audio" flags="" id="103304" captured-for="keys jazz guit" channel="0" origin="" gain="1"/>
   </Sources>
   <Regions>
     <Region name="Audio-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="7888896" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="235" type="audio" first-edit="nothing" source-0="209" source-1="211" master-source-0="209" master-source-1="211" channels="2"/>
@@ -603,7 +604,15 @@
     <Region name="drums 7-8.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3894395" length="3619717" position="3959053" beat="199" sync-position="3894395" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="52867" type="audio" first-edit="nothing" source-0="52355" master-source-0="52355" channels="1"/>
     <Region name="drums 8-8.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3894395" length="3619717" position="3959053" beat="199" sync-position="3894395" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="52886" type="audio" first-edit="nothing" source-0="52379" master-source-0="52379" channels="1"/>
     <Region name="drums 4-8.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3894395" length="3619717" position="3959053" beat="199" sync-position="3894395" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="52905" type="audio" first-edit="nothing" source-0="52280" master-source-0="52280" channels="1"/>
+    <Region name="drums 1-8.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4521079" length="2993033" position="4585737" beat="230.5" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="52974" type="audio" first-edit="nothing" source-0="52206" master-source-0="52206" channels="1"/>
+    <Region name="drums 2-8.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4521079" length="2993033" position="4585737" beat="230.5" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="52993" type="audio" first-edit="nothing" source-0="52230" master-source-0="52230" channels="1"/>
     <Region name="drums 3-8.4" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3894395" length="626684" position="3959053" beat="199" sync-position="3894395" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53003" type="audio" first-edit="nothing" source-0="52255" master-source-0="52255" channels="1"/>
+    <Region name="drums 3-8.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4521079" length="2993033" position="4585737" beat="230.5" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53012" type="audio" first-edit="nothing" source-0="52255" master-source-0="52255" channels="1"/>
+    <Region name="drums 4-8.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4521079" length="2993033" position="4585737" beat="230.5" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53031" type="audio" first-edit="nothing" source-0="52280" master-source-0="52280" channels="1"/>
+    <Region name="drums 6-8.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4521079" length="2993033" position="4585737" beat="230.5" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53050" type="audio" first-edit="nothing" source-0="52330" master-source-0="52330" channels="1"/>
+    <Region name="drums 7-8.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4521079" length="2993033" position="4585737" beat="230.5" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53069" type="audio" first-edit="nothing" source-0="52355" master-source-0="52355" channels="1"/>
+    <Region name="drums 8-8.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4521079" length="2993033" position="4585737" beat="230.5" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53088" type="audio" first-edit="nothing" source-0="52379" master-source-0="52379" channels="1"/>
+    <Region name="drums 5-8.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4521079" length="2993033" position="4585737" beat="230.5" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53107" type="audio" first-edit="nothing" source-0="52305" master-source-0="52305" channels="1"/>
     <Region name="drums 3-8.7" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4297263" length="223816" position="4361921" beat="219.25" sync-position="4297263" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53186" type="audio" first-edit="nothing" source-0="52255" master-source-0="52255" channels="1"/>
     <Region name="trumpet-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1456384" position="74605" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53308" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1"/>
     <Region name="trumpet-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1456384" position="74605" beat="3.7499867724867726" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53316" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1"/>
@@ -611,11 +620,18 @@
     <Region name="trumpet-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="918784" position="64658" beat="3.2500052910052903" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53515" type="audio" first-edit="nothing" source-0="53330" master-source-0="53330" channels="1"/>
     <Region name="trumpet-1.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="4108263" beat="206.49999206349207" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53662" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1"/>
     <Region name="trumpet-1.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="3153316" beat="158.5" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53672" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1"/>
+    <Region name="trumpet-1.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="3501474" beat="176" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53694" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1"/>
     <Region name="trumpet-1.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="5411368" beat="272" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53728" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1"/>
     <Region name="trumpet-1.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="6525474" beat="328" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53772" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1"/>
     <Region name="MIDI-1.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="815684" beat="41" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="8" id="62682" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
     <Region name="trumpet-1.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="815684" beat="40.999989417989418" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="11" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62685" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1"/>
     <Region name="MIDI-1.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="1934763" beat="97.25" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="8" id="62766" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
+    <Region name="trumpet-1.17" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="2069053" beat="104.00001851851852" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62802" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1"/>
+    <Region name="trumpet-1.20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="3501474" beat="176.00001587301588" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="12" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62901" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1"/>
+    <Region name="trumpet-1.21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="3501474" beat="176.00001587301588" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="13" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62911" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1"/>
+    <Region name="trumpet-1.24" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="4615579" beat="232.00000264550266" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="13" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62978" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1"/>
+    <Region name="trumpet-1.25" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="4615579" beat="232.00000264550266" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="14" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62991" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1"/>
+    <Region name="trumpet-1.31" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="3501474" beat="176.00001587301588" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="23" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="63183" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1"/>
     <Region name="MIDI-1.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="6843789" beat="344" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="17" start-beats="0" length-beats="8" id="63562" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
     <Region name="MIDI-1.21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="6525474" beat="328" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="19" start-beats="0" length-beats="8" id="63568" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
     <Region name="trumpet-1.36" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="6525474" beat="328.00001587301585" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="30" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="63581" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1"/>
@@ -630,20 +646,34 @@
     <Region name="trumpet-1.42" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="7321263" beat="367.99999206349207" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="31" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="74141" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1"/>
     <Region name="MIDI-1.25" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="7321263" beat="368" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="20" start-beats="0" length-beats="8" id="74161" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
     <Region name="trumpet-1.43" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="7321263" beat="367.99999206349207" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="31" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="74164" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1"/>
+    <Region name="keys jazz guit-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1860096" position="3474118" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103327" type="audio" first-edit="nothing" source-0="103304" master-source-0="103304" channels="1"/>
+    <Region name="keys jazz guit-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="504829" length="1355267" position="3978947" beat="200" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103335" type="audio" first-edit="nothing" source-0="103304" master-source-0="103304" channels="1"/>
+    <Region name="keys jazz guit-1.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1141461" length="718635" position="4615579" beat="232" sync-position="1141461" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103382" type="audio" first-edit="nothing" source-0="103304" master-source-0="103304" channels="1"/>
+    <Region name="keys jazz guit-1.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="644093" length="19895" position="0" beat="0" sync-position="644093" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103422" type="audio" first-edit="nothing" source-0="103304" master-source-0="103304" channels="1"/>
+    <Region name="MIDI-1.26" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="7321263" beat="368" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="20" start-beats="0" length-beats="8" id="103494" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
+    <Region name="trumpet-1.44" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="7321263" beat="367.99999206349207" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="24" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103497" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1"/>
+    <Region name="drums 1-8.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7249145" length="264967" position="7313803" beat="367.625" sync-position="7249145" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103680" type="audio" first-edit="nothing" source-0="52206" master-source-0="52206" channels="1"/>
+    <Region name="drums 4-8.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7249145" length="264967" position="7313803" beat="367.625" sync-position="7249145" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103699" type="audio" first-edit="nothing" source-0="52280" master-source-0="52280" channels="1"/>
+    <Region name="drums 5-8.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7249145" length="264967" position="7313803" beat="367.625" sync-position="7249145" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103718" type="audio" first-edit="nothing" source-0="52305" master-source-0="52305" channels="1"/>
+    <Region name="drums 6-8.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7249145" length="264967" position="7313803" beat="367.625" sync-position="7249145" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103737" type="audio" first-edit="nothing" source-0="52330" master-source-0="52330" channels="1"/>
+    <Region name="drums 7-8.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7249145" length="264967" position="7313803" beat="367.625" sync-position="7249145" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103756" type="audio" first-edit="nothing" source-0="52355" master-source-0="52355" channels="1"/>
+    <Region name="drums 8-8.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7249145" length="264967" position="7313803" beat="367.625" sync-position="7249145" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103775" type="audio" first-edit="nothing" source-0="52379" master-source-0="52379" channels="1"/>
+    <Region name="drums 3-8.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7249145" length="264967" position="7313803" beat="367.625" sync-position="7249145" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103793" type="audio" first-edit="nothing" source-0="52255" master-source-0="52255" channels="1"/>
+    <Region name="drums 2-8.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7249145" length="264967" position="7313803" beat="367.625" sync-position="7249145" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103811" type="audio" first-edit="nothing" source-0="52230" master-source-0="52230" channels="1"/>
   </Regions>
   <CompoundAssociations>
-    <CompoundAssociation copy="22389" original="3782"/>
     <CompoundAssociation copy="25471" original="25131"/>
     <CompoundAssociation copy="25480" original="25417"/>
     <CompoundAssociation copy="22380" original="3773"/>
+    <CompoundAssociation copy="22389" original="3782"/>
     <CompoundAssociation copy="32353" original="32170"/>
     <CompoundAssociation copy="32362" original="32236"/>
   </CompoundAssociations>
   <Selection>
-    <StripableAutomationControl stripable="53240" control="0" order="1"/>
+    <StripableAutomationControl stripable="53240" control="0" order="10"/>
   </Selection>
   <Locations>
-    <Location id="256" name="session" start="134289" end="7858421" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+    <Location id="256" name="session" start="134289" end="7736566" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
     <Location id="2362" name="Loop" start="636632" end="795790" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
   </Locations>
   <Bundles/>
@@ -677,6 +707,7 @@
           <Connection other="drums 8/audio_out 1"/>
           <Connection other="guitar 1/audio_out 1"/>
           <Connection other="guitar/audio_out 1"/>
+          <Connection other="keys jazz guit/audio_out 1"/>
           <Connection other="old drums 2/audio_out 1"/>
           <Connection other="old drums/audio_out 1"/>
           <Connection other="trumpet/audio_out 1"/>
@@ -703,6 +734,7 @@
           <Connection other="drums 8/audio_out 2"/>
           <Connection other="guitar 1/audio_out 2"/>
           <Connection other="guitar/audio_out 2"/>
+          <Connection other="keys jazz guit/audio_out 2"/>
           <Connection other="old drums 2/audio_out 2"/>
           <Connection other="old drums/audio_out 2"/>
           <Connection other="trumpet/audio_out 2"/>
@@ -1990,7 +2022,7 @@ Added a Ping Chip sound from the chip bank in Yoshimi</Comment>
       <Diskstream flags="Recordable" playlist="MIDI trumpet 1.1" name="MIDI trumpet 1" id="1765" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
     <Route id="3501" name="Bass Experimental" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="22" flags="AudioTrack,OrderSet" color="3853021951"/>
+      <PresentationInfo order="23" flags="AudioTrack,OrderSet" color="3853021951"/>
       <Controllable name="solo" id="3509" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="3515" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="3517" flags="Toggle" value="0" solo-safe="0"/>
@@ -2583,7 +2615,7 @@ Added a Ping Chip sound from the chip bank in Yoshimi</Comment>
       <Diskstream flags="Recordable" playlist="guitar.1" name="guitar" id="3856" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="5890" name="Bass Original" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="24" flags="AudioTrack,OrderSet" color="3853703679"/>
+      <PresentationInfo order="25" flags="AudioTrack,OrderSet" color="3853703679"/>
       <Controllable name="solo" id="5857" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="6131" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="6132" flags="Toggle" value="0" solo-safe="0"/>
@@ -2860,7 +2892,7 @@ Added a Ping Chip sound from the chip bank in Yoshimi</Comment>
       <Diskstream flags="Recordable" playlist="Bass 1.1" name="Bass 1" id="6144" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="12299" name="Dub Bass 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="18" flags="AudioTrack,OrderSet" color="3853574143"/>
+      <PresentationInfo order="19" flags="AudioTrack,OrderSet" color="3853574143"/>
       <Controllable name="solo" id="12307" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="12313" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="12315" flags="Toggle" value="0" solo-safe="0"/>
@@ -3221,7 +3253,7 @@ Added a Ping Chip sound from the chip bank in Yoshimi</Comment>
       <Diskstream flags="Recordable" playlist="Dub Bass.1" name="Dub Bass" id="12340" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="14544" name="bass whole notes" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="23" flags="AudioTrack,OrderSet" color="1927653631"/>
+      <PresentationInfo order="24" flags="AudioTrack,OrderSet" color="1927653631"/>
       <Controllable name="solo" id="14552" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="14558" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="14560" flags="Toggle" value="0" solo-safe="0"/>
@@ -3300,14 +3332,12 @@ Added a Ping Chip sound from the chip bank in Yoshimi</Comment>
       <Diskstream flags="Recordable" playlist="bass whole notes.1" name="bass whole notes" id="14585" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="25056" name="Dub Bass 2" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="20" flags="AudioTrack,OrderSet" color="3852366591"/>
+      <PresentationInfo order="21" flags="AudioTrack,OrderSet" color="3852366591"/>
       <Controllable name="solo" id="25064" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="25070" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="25072" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="Dub Bass 2" id="25084" direction="Input" default-type="audio" user-latency="0">
-        <Port type="audio" name="Dub Bass 2/audio_in 1">
-          <Connection other="system:capture_1"/>
-        </Port>
+        <Port type="audio" name="Dub Bass 2/audio_in 1"/>
       </IO>
       <IO name="Dub Bass 2" id="25085" direction="Output" default-type="audio" user-latency="0">
         <Port type="audio" name="Dub Bass 2/audio_out 1">
@@ -3663,7 +3693,7 @@ Added a Ping Chip sound from the chip bank in Yoshimi</Comment>
       <Diskstream flags="Recordable" playlist="Audio.2" name="Audio" id="25097" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="28473" name="Dub Bass 1 (EQ2)" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="19" flags="AudioTrack,OrderSet" color="2695423487"/>
+      <PresentationInfo order="20" flags="AudioTrack,OrderSet" color="2695423487"/>
       <Controllable name="solo" id="28440" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="28743" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="28744" flags="Toggle" value="0" solo-safe="0"/>
@@ -3964,14 +3994,12 @@ Added a Ping Chip sound from the chip bank in Yoshimi</Comment>
       <Diskstream flags="Recordable" playlist="Dub Bass 1.1" name="Dub Bass 1" id="28756" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="29040" name="Dub Bass 2 (EQ2)" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="21" flags="AudioTrack,OrderSet" color="2481287935"/>
+      <PresentationInfo order="22" flags="AudioTrack,OrderSet" color="2481287935"/>
       <Controllable name="solo" id="29007" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="29285" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="29286" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="Dub Bass 2 (EQ2)" id="29041" direction="Input" default-type="audio" user-latency="0">
-        <Port type="audio" name="Dub Bass 2 (EQ2)/audio_in 1">
-          <Connection other="system:capture_1"/>
-        </Port>
+        <Port type="audio" name="Dub Bass 2 (EQ2)/audio_in 1"/>
       </IO>
       <IO name="Dub Bass 2 (EQ2)" id="29042" direction="Output" default-type="audio" user-latency="0">
         <Port type="audio" name="Dub Bass 2 (EQ2)/audio_out 1">
@@ -4267,7 +4295,7 @@ Added a Ping Chip sound from the chip bank in Yoshimi</Comment>
       <Diskstream flags="Recordable" playlist="Dub Bass 2 1.1" name="Dub Bass 2 1" id="29298" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="29545" name="guitar 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="17" flags="AudioTrack,OrderSet" color="3200574975"/>
+      <PresentationInfo order="18" flags="AudioTrack,OrderSet" color="3200574975"/>
       <Controllable name="solo" id="29512" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="29726" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="29727" flags="Toggle" value="0" solo-safe="0"/>
@@ -5527,9 +5555,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
       <Controllable name="solo-iso" id="49738" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="49740" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="drums 1" id="49752" direction="Input" default-type="audio" user-latency="0">
-        <Port type="audio" name="drums 1/audio_in 1">
-          <Connection other="system:capture_1"/>
-        </Port>
+        <Port type="audio" name="drums 1/audio_in 1"/>
       </IO>
       <IO name="drums 1" id="49753" direction="Output" default-type="audio" user-latency="0">
         <Port type="audio" name="drums 1/audio_out 1">
@@ -5608,9 +5634,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
       <Controllable name="solo-iso" id="49786" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="49788" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="drums 2" id="49800" direction="Input" default-type="audio" user-latency="0">
-        <Port type="audio" name="drums 2/audio_in 1">
-          <Connection other="system:capture_2"/>
-        </Port>
+        <Port type="audio" name="drums 2/audio_in 1"/>
       </IO>
       <IO name="drums 2" id="49801" direction="Output" default-type="audio" user-latency="0">
         <Port type="audio" name="drums 2/audio_out 1">
@@ -5689,9 +5713,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
       <Controllable name="solo-iso" id="49834" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="49836" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="drums 3" id="49848" direction="Input" default-type="audio" user-latency="0">
-        <Port type="audio" name="drums 3/audio_in 1">
-          <Connection other="system:capture_3"/>
-        </Port>
+        <Port type="audio" name="drums 3/audio_in 1"/>
       </IO>
       <IO name="drums 3" id="49849" direction="Output" default-type="audio" user-latency="0">
         <Port type="audio" name="drums 3/audio_out 1">
@@ -6176,9 +6198,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
       <Controllable name="solo-iso" id="49882" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="49884" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="drums 4" id="49896" direction="Input" default-type="audio" user-latency="0">
-        <Port type="audio" name="drums 4/audio_in 1">
-          <Connection other="system:capture_4"/>
-        </Port>
+        <Port type="audio" name="drums 4/audio_in 1"/>
       </IO>
       <IO name="drums 4" id="49897" direction="Output" default-type="audio" user-latency="0">
         <Port type="audio" name="drums 4/audio_out 1">
@@ -6257,9 +6277,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
       <Controllable name="solo-iso" id="49930" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="49932" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="drums 5" id="49944" direction="Input" default-type="audio" user-latency="0">
-        <Port type="audio" name="drums 5/audio_in 1">
-          <Connection other="system:capture_5"/>
-        </Port>
+        <Port type="audio" name="drums 5/audio_in 1"/>
       </IO>
       <IO name="drums 5" id="49945" direction="Output" default-type="audio" user-latency="0">
         <Port type="audio" name="drums 5/audio_out 1">
@@ -6338,9 +6356,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
       <Controllable name="solo-iso" id="49978" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="49980" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="drums 6" id="49992" direction="Input" default-type="audio" user-latency="0">
-        <Port type="audio" name="drums 6/audio_in 1">
-          <Connection other="system:capture_6"/>
-        </Port>
+        <Port type="audio" name="drums 6/audio_in 1"/>
       </IO>
       <IO name="drums 6" id="49993" direction="Output" default-type="audio" user-latency="0">
         <Port type="audio" name="drums 6/audio_out 1">
@@ -6419,9 +6435,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
       <Controllable name="solo-iso" id="50026" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="50028" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="drums 7" id="50040" direction="Input" default-type="audio" user-latency="0">
-        <Port type="audio" name="drums 7/audio_in 1">
-          <Connection other="system:capture_7"/>
-        </Port>
+        <Port type="audio" name="drums 7/audio_in 1"/>
       </IO>
       <IO name="drums 7" id="50041" direction="Output" default-type="audio" user-latency="0">
         <Port type="audio" name="drums 7/audio_out 1">
@@ -6500,9 +6514,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
       <Controllable name="solo-iso" id="50074" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="50076" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="drums 8" id="50088" direction="Input" default-type="audio" user-latency="0">
-        <Port type="audio" name="drums 8/audio_in 1">
-          <Connection other="system:capture_8"/>
-        </Port>
+        <Port type="audio" name="drums 8/audio_in 1"/>
       </IO>
       <IO name="drums 8" id="50089" direction="Output" default-type="audio" user-latency="0">
         <Port type="audio" name="drums 8/audio_out 1">
@@ -6581,9 +6593,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
       <Controllable name="solo-iso" id="53254" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="53256" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="trumpet" id="53268" direction="Input" default-type="audio" user-latency="0">
-        <Port type="audio" name="trumpet/audio_in 1">
-          <Connection other="system:capture_12"/>
-        </Port>
+        <Port type="audio" name="trumpet/audio_in 1"/>
       </IO>
       <IO name="trumpet" id="53269" direction="Output" default-type="audio" user-latency="0">
         <Port type="audio" name="trumpet/audio_out 1">
@@ -6809,11 +6819,11 @@ this is the original drum setting but the volume was originally -5.4 from the ot
 5227344 3.0615920909582428e-09
 5228624 0.0056161903776228428
 5229904 0.091572083532810211
-5231184 1.2101154327392578
-5232464 1.4083559513092041
-5233744 1.4611972570419312
-5237840 1.4611972570419312
-5239120 1.4083559513092041
+5231840 0.6172519326210022
+5233120 0.71836984157562256
+5234400 0.74532270431518555
+5238496 0.74532270431518555
+5239776 0.71836984157562256
 5240400 0
 5854905 0
 5856185 0.061832282692193985
@@ -6889,11 +6899,11 @@ this is the original drum setting but the volume was originally -5.4 from the ot
 5227344 3.0615920909582428e-09
 5228624 0.0056161903776228428
 5229904 0.091572083532810211
-5231184 1.2101154327392578
-5232464 1.4083559513092041
-5233744 1.4611972570419312
-5237840 1.4611972570419312
-5239120 1.4083559513092041
+5231840 0.6172519326210022
+5233120 0.71836984157562256
+5234400 0.74532270431518555
+5238496 0.74532270431518555
+5239776 0.71836984157562256
 5240400 0
 5854905 0
 5856185 0.061832282692193985
@@ -6916,7 +6926,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
 </events>
             </AutomationList>
           </Automation>
-          <Controllable name="gaincontrol" id="73952" flags="GainLike" value="3.0615920909582428e-09"/>
+          <Controllable name="gaincontrol" id="73952" flags="GainLike" value="0"/>
         </Processor>
       </Processor>
       <Processor id="53473" name="Calf Compressor" active="0" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Compressor" count="1" custom="0">
@@ -7635,6 +7645,87 @@ this is the original drum setting but the volume was originally -5.4 from the ot
       <Controllable name="rec-safe" id="53860" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="53858" flags="Toggle,RealTime" value="0"/>
       <Diskstream flags="Recordable" playlist="MIDI.1" name="MIDI" id="53863" speed="1" capture-alignment="Automatic" record-safe="0"/>
+    </Route>
+    <Route id="103259" name="keys jazz guit" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
+      <PresentationInfo order="17" flags="AudioTrack,OrderSet" color="3621250559"/>
+      <Controllable name="solo" id="103267" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="103273" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="103275" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="keys jazz guit" id="103287" direction="Input" default-type="audio" user-latency="0">
+        <Port type="audio" name="keys jazz guit/audio_in 1"/>
+      </IO>
+      <IO name="keys jazz guit" id="103288" direction="Output" default-type="audio" user-latency="0">
+        <Port type="audio" name="keys jazz guit/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="keys jazz guit/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="103269" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="phase" id="103271" flags="Toggle" value="0" phase-invert="0"/>
+      <Automation>
+        <AutomationList automation-id="solo" id="103266" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="103272" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="103274" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="mute" id="103268" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="103294" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="103296" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="phase" id="103270" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="monitor" id="103298" interpolation-style="Discrete" state="Off"/>
+      </Automation>
+      <Comment>*Notes*
+Used jazz guitar on the keyboard</Comment>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="103278" flags="" value="0.5"/>
+        <Controllable name="pan-width" id="103282" flags="" value="0"/>
+        <Controllable name="pan-elevation" id="103280" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="103284" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="103286" flags="" value="0"/>
+        <Automation>
+          <AutomationList automation-id="pan-azimuth" id="103277" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="103279" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-width" id="103281" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="103283" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="103285" interpolation-style="Linear" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="103290" name="Amp" active="1" user-latency="0" type="trim">
+        <Automation>
+          <AutomationList automation-id="trim" id="103264" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <Controllable name="trimcontrol" id="103265" flags="GainLike" value="1"/>
+      </Processor>
+      <Processor id="103289" name="Amp" active="1" user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="103262" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="103263" flags="GainLike" value="1"/>
+      </Processor>
+      <Processor id="103291" name="meter-keys jazz guit" active="1" user-latency="0" type="meter"/>
+      <Processor id="103292" name="keys jazz guit" active="1" user-latency="0" own-input="1" own-output="0" output="keys jazz guit" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="103278" flags="" value="0.5"/>
+          <Controllable name="pan-width" id="103282" flags="" value="0"/>
+          <Controllable name="pan-elevation" id="103280" flags="" value="0"/>
+          <Controllable name="pan-frontback" id="103284" flags="" value="0"/>
+          <Controllable name="pan-lfe" id="103286" flags="" value="0"/>
+          <Automation>
+            <AutomationList automation-id="pan-azimuth" id="103277" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-elevation" id="103279" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-width" id="103281" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-frontback" id="103283" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-lfe" id="103285" interpolation-style="Linear" state="Off"/>
+          </Automation>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="103299" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="103297" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="103295" flags="Toggle,RealTime" value="0"/>
+      <Diskstream flags="Recordable" playlist="keys jazz guit.1" name="keys jazz guit" id="103300" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
   </Routes>
   <Playlists>
@@ -8768,7 +8859,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guitar-3.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="790816" length="164131" position="7395868" beat="371.75" sync-position="790816" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="29864" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
+      <Region name="guitar-3.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="790816" length="164131" position="7318776" beat="367.875" sync-position="790816" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="29864" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="29865" interpolation-style="Curved" state="Off">
@@ -9020,31 +9111,31 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="drums 1-8.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4521079" length="2993033" position="4585737" beat="230.5" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="52974" type="audio" first-edit="nothing" source-0="52206" master-source-0="52206" channels="1">
+      <Region name="drums 1-8.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4521079" length="2728066" position="4585737" beat="230.5" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103671" type="audio" first-edit="nothing" source-0="52206" master-source-0="52206" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="52975" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="103672" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="52976" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="103673" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="52977" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="103674" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="52978" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="103675" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
@@ -9115,31 +9206,31 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="drums 2-8.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4521079" length="2993033" position="4585737" beat="230.5" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="52993" type="audio" first-edit="nothing" source-0="52230" master-source-0="52230" channels="1">
+      <Region name="drums 2-8.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4521079" length="2728066" position="4585737" beat="230.5" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103802" type="audio" first-edit="nothing" source-0="52230" master-source-0="52230" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="52994" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="103803" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="52995" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="103804" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="52996" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="103805" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="52997" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="103806" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
@@ -9272,31 +9363,31 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="drums 3-8.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4521079" length="2993033" position="4585737" beat="230.5" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53012" type="audio" first-edit="nothing" source-0="52255" master-source-0="52255" channels="1">
+      <Region name="drums 3-8.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4521079" length="2728066" position="4585737" beat="230.5" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103785" type="audio" first-edit="nothing" source-0="52255" master-source-0="52255" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="53013" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="103786" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="53014" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="103787" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="53015" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="103788" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="53016" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="103789" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
@@ -9367,31 +9458,31 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="drums 4-8.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4521079" length="2993033" position="4585737" beat="230.5" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53031" type="audio" first-edit="nothing" source-0="52280" master-source-0="52280" channels="1">
+      <Region name="drums 4-8.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4521079" length="2728066" position="4585737" beat="230.5" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103690" type="audio" first-edit="nothing" source-0="52280" master-source-0="52280" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="53032" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="103691" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="53033" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="103692" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="53034" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="103693" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="53035" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="103694" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
@@ -9462,31 +9553,31 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="drums 5-8.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4521079" length="2993033" position="4585737" beat="230.5" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53107" type="audio" first-edit="nothing" source-0="52305" master-source-0="52305" channels="1">
+      <Region name="drums 5-8.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4521079" length="2728066" position="4585737" beat="230.5" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103709" type="audio" first-edit="nothing" source-0="52305" master-source-0="52305" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="53108" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="103710" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="53109" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="103711" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="53110" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="103712" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="53111" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="103713" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
@@ -9557,31 +9648,31 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="drums 6-8.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4521079" length="2993033" position="4585737" beat="230.5" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53050" type="audio" first-edit="nothing" source-0="52330" master-source-0="52330" channels="1">
+      <Region name="drums 6-8.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4521079" length="2728066" position="4585737" beat="230.5" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103728" type="audio" first-edit="nothing" source-0="52330" master-source-0="52330" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="53051" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="103729" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="53052" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="103730" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="53053" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="103731" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="53054" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="103732" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
@@ -9652,31 +9743,31 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="drums 7-8.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4521079" length="2993033" position="4585737" beat="230.5" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53069" type="audio" first-edit="nothing" source-0="52355" master-source-0="52355" channels="1">
+      <Region name="drums 7-8.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4521079" length="2728066" position="4585737" beat="230.5" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103747" type="audio" first-edit="nothing" source-0="52355" master-source-0="52355" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="53070" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="103748" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="53071" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="103749" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="53072" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="103750" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="53073" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="103751" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
@@ -9747,31 +9838,31 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="drums 8-8.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4521079" length="2993033" position="4585737" beat="230.5" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53088" type="audio" first-edit="nothing" source-0="52379" master-source-0="52379" channels="1">
+      <Region name="drums 8-8.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4521079" length="2728066" position="4585737" beat="230.5" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103766" type="audio" first-edit="nothing" source-0="52379" master-source-0="52379" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="53089" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="103767" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="53090" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="103768" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="53091" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="103769" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="53092" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="103770" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
@@ -9811,7 +9902,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="trumpet-1.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="318316" beat="16.000010582010582" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62645" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
+      <Region name="trumpet-1.13" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="318316" beat="16.000010582010582" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62645" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="62646" interpolation-style="Curved" state="Off">
@@ -9842,7 +9933,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="trumpet-1.14" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="477474" beat="24.000015873015872" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62665" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
+      <Region name="trumpet-1.14" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="104447" position="477474" beat="24.000015873015872" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62665" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="62666" interpolation-style="Curved" state="Off">
@@ -9935,38 +10026,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="trumpet-1.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="2069053" beat="104.00001851851852" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62802" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
-        <Envelope default="yes"/>
-        <FadeIn>
-          <AutomationList automation-id="fadein" id="62803" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </FadeIn>
-        <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="62804" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </InverseFadeIn>
-        <FadeOut>
-          <AutomationList automation-id="fadeout" id="62805" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </FadeOut>
-        <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="62806" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </InverseFadeOut>
-      </Region>
-      <Region name="trumpet-1.18" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="2228211" beat="112.0000238095238" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="11" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62812" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
+      <Region name="trumpet-1.18" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="2228211" beat="112.0000238095238" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62812" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="62813" interpolation-style="Curved" state="Off">
@@ -9997,7 +10057,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="trumpet-1.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="2387369" beat="120.00002910052909" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="12" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62822" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
+      <Region name="trumpet-1.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="104447" position="2387369" beat="120.00002910052909" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62822" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="62823" interpolation-style="Curved" state="Off">
@@ -10028,7 +10088,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="trumpet-1.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="2546527" beat="128.0000343915344" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62792" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
+      <Region name="trumpet-1.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="2546527" beat="128.0000343915344" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62792" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="62793" interpolation-style="Curved" state="Off">
@@ -10059,7 +10119,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="trumpet-1.28" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="3342316" beat="168.00001058201059" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="21" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="63153" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
+      <Region name="trumpet-1.28" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="3342316" beat="168.00001058201059" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="63153" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="63154" interpolation-style="Curved" state="Off">
@@ -10090,7 +10150,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="trumpet-1.29" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="3342316" beat="168.00001058201059" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="22" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="63163" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
+      <Region name="trumpet-1.29" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="3342316" beat="168.00001058201059" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="16" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="63163" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="63164" interpolation-style="Curved" state="Off">
@@ -10121,7 +10181,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="trumpet-1.30" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="3342316" beat="168.00001058201059" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="23" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="63173" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
+      <Region name="trumpet-1.30" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="3342316" beat="168.00001058201059" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="17" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="63173" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="63174" interpolation-style="Curved" state="Off">
@@ -10152,131 +10212,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="trumpet-1.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="3501474" beat="176" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53694" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
-        <Envelope default="yes"/>
-        <FadeIn>
-          <AutomationList automation-id="fadein" id="53695" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </FadeIn>
-        <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="53696" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </InverseFadeIn>
-        <FadeOut>
-          <AutomationList automation-id="fadeout" id="53697" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </FadeOut>
-        <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="53698" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </InverseFadeOut>
-      </Region>
-      <Region name="trumpet-1.20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="3501474" beat="176.00001587301588" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="13" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62901" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
-        <Envelope default="yes"/>
-        <FadeIn>
-          <AutomationList automation-id="fadein" id="62902" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </FadeIn>
-        <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="62903" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </InverseFadeIn>
-        <FadeOut>
-          <AutomationList automation-id="fadeout" id="62904" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </FadeOut>
-        <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="62905" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </InverseFadeOut>
-      </Region>
-      <Region name="trumpet-1.21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="3501474" beat="176.00001587301588" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="14" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62911" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
-        <Envelope default="yes"/>
-        <FadeIn>
-          <AutomationList automation-id="fadein" id="62912" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </FadeIn>
-        <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="62913" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </InverseFadeIn>
-        <FadeOut>
-          <AutomationList automation-id="fadeout" id="62914" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </FadeOut>
-        <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="62915" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </InverseFadeOut>
-      </Region>
-      <Region name="trumpet-1.31" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="3501474" beat="176.00001587301588" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="24" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="63183" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
-        <Envelope default="yes"/>
-        <FadeIn>
-          <AutomationList automation-id="fadein" id="63184" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </FadeIn>
-        <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="63185" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </InverseFadeIn>
-        <FadeOut>
-          <AutomationList automation-id="fadeout" id="63186" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </FadeOut>
-        <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="63187" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </InverseFadeOut>
-      </Region>
-      <Region name="trumpet-1.22" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="3660632" beat="184.00002116402118" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62921" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
+      <Region name="trumpet-1.22" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="3660632" beat="184.00002116402118" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="11" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62921" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="62922" interpolation-style="Curved" state="Off">
@@ -10338,69 +10274,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="trumpet-1.24" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="4615579" beat="232.00000264550266" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="17" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62978" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
-        <Envelope default="yes"/>
-        <FadeIn>
-          <AutomationList automation-id="fadein" id="62979" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </FadeIn>
-        <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="62980" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </InverseFadeIn>
-        <FadeOut>
-          <AutomationList automation-id="fadeout" id="62981" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </FadeOut>
-        <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="62982" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </InverseFadeOut>
-      </Region>
-      <Region name="trumpet-1.25" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="4615579" beat="232.00000264550266" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="18" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62991" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
-        <Envelope default="yes"/>
-        <FadeIn>
-          <AutomationList automation-id="fadein" id="62992" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </FadeIn>
-        <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="62993" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </InverseFadeIn>
-        <FadeOut>
-          <AutomationList automation-id="fadeout" id="62994" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </FadeOut>
-        <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="62995" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </InverseFadeOut>
-      </Region>
-      <Region name="trumpet-1.26" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="4774737" beat="240.00000793650793" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="19" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="63001" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
+      <Region name="trumpet-1.26" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="4774737" beat="240.00000793650793" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="13" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="63001" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="63002" interpolation-style="Curved" state="Off">
@@ -10431,7 +10305,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="trumpet-1.27" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="4933895" beat="248.00001322751322" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="20" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="63011" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
+      <Region name="trumpet-1.27" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="104447" position="4933895" beat="248.00001322751322" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="14" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="63011" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="63012" interpolation-style="Curved" state="Off">
@@ -10462,7 +10336,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="trumpet-1.23" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="5093053" beat="256.00001851851852" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="16" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62968" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
+      <Region name="trumpet-1.23" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="5093053" beat="256.00001851851852" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="12" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="62968" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="62969" interpolation-style="Curved" state="Off">
@@ -10493,7 +10367,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="trumpet-1.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="5729684" beat="288" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53750" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
+      <Region name="trumpet-1.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="5729684" beat="288" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53750" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="53751" interpolation-style="Curved" state="Off">
@@ -10524,7 +10398,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="trumpet-1.32" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="5729684" beat="287.99998941798941" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="25" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="63431" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
+      <Region name="trumpet-1.32" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="5729684" beat="287.99998941798941" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="18" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="63431" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="63432" interpolation-style="Curved" state="Off">
@@ -10555,7 +10429,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="trumpet-1.33" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="5729684" beat="287.99998941798941" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="26" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="63441" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
+      <Region name="trumpet-1.33" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="5729684" beat="287.99998941798941" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="19" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="63441" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="63442" interpolation-style="Curved" state="Off">
@@ -10586,7 +10460,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="trumpet-1.34" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="5729684" beat="287.99998941798941" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="27" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="63451" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
+      <Region name="trumpet-1.34" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="5729684" beat="287.99998941798941" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="20" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="63451" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="63452" interpolation-style="Curved" state="Off">
@@ -10617,7 +10491,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="trumpet-1.41" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="6366316" beat="320.00001058201053" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="30" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="74121" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
+      <Region name="trumpet-1.41" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="6366316" beat="320.00001058201053" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="23" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="74121" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="74122" interpolation-style="Curved" state="Off">
@@ -10648,7 +10522,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="trumpet-1.39" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="6684632" beat="336.00002116402118" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="29" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="63611" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
+      <Region name="trumpet-1.39" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="562027" length="174079" position="6684632" beat="336.00002116402118" sync-position="562027" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="22" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="63611" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="63612" interpolation-style="Curved" state="Off">
@@ -10679,7 +10553,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="trumpet-1.35" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="188999" position="7002948" beat="352.00003174603177" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="28" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="63571" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
+      <Region name="trumpet-1.35" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="188999" position="7002948" beat="352.00003174603177" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="21" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="63571" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="63572" interpolation-style="Curved" state="Off">
@@ -10710,7 +10584,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="trumpet-1.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="7162105" beat="360" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53794" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
+      <Region name="trumpet-1.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1198658" length="257726" position="7162105" beat="360" sync-position="1198658" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="53794" type="audio" first-edit="nothing" source-0="53285" master-source-0="53285" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="53795" interpolation-style="Curved" state="Off">
@@ -10744,25 +10618,151 @@ this is the original drum setting but the volume was originally -5.4 from the ot
     </Playlist>
     <Playlist id="53864" name="MIDI.1" type="midi" orig-track-id="53822" shared-with-ids="" frozen="0" combine-ops="0">
       <Region name="MIDI-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="159158" beat="8" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="8" id="54040" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
-      <Region name="MIDI-1.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="318316" beat="16" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="8" id="62642" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
-      <Region name="MIDI-1.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="477474" beat="24" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0" length-beats="8" id="62662" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
+      <Region name="MIDI-1.2" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="318316" beat="16" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="8" id="62642" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
+      <Region name="MIDI-1.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="101960" position="477474" beat="24" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0" length-beats="5.125" id="62662" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
       <Region name="MIDI-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="636632" beat="32" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="8" id="54265" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
       <Region name="MIDI-1.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="2069053" beat="104" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" start-beats="0" length-beats="8" id="62789" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
-      <Region name="MIDI-1.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="2228211" beat="112" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="8" id="62783" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
-      <Region name="MIDI-1.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="2387368" beat="120" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="8" id="62780" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
+      <Region name="MIDI-1.7" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="2228211" beat="112" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="8" id="62783" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
+      <Region name="MIDI-1.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="101961" position="2387368" beat="120" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="5.125" id="62780" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
       <Region name="MIDI-1.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="2546526" beat="128" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="6" start-beats="0" length-beats="8" id="62786" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
       <Region name="MIDI-1.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="3342316" beat="168" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="14" start-beats="0" length-beats="8" id="63150" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
-      <Region name="MIDI-1.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="3501474" beat="176" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" start-beats="0" length-beats="8" id="62895" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
+      <Region name="MIDI-1.10" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="3501474" beat="176" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="8" start-beats="0" length-beats="8" id="62895" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
       <Region name="MIDI-1.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="3660632" beat="184" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="9" start-beats="0" length-beats="8" id="62898" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
       <Region name="MIDI-1.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="4615579" beat="232" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="10" start-beats="0" length-beats="8" id="62959" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
-      <Region name="MIDI-1.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="4774737" beat="240" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="11" start-beats="0" length-beats="8" id="62962" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
-      <Region name="MIDI-1.14" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="4933895" beat="248" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="12" start-beats="0" length-beats="8" id="62965" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
+      <Region name="MIDI-1.13" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="4774737" beat="240" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="11" start-beats="0" length-beats="8" id="62962" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
+      <Region name="MIDI-1.14" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="104447" position="4933895" beat="248" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="12" start-beats="0" length-beats="5.25" id="62965" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
       <Region name="MIDI-1.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="5093053" beat="256" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="13" start-beats="0" length-beats="8" id="62988" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
       <Region name="MIDI-1.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="5729684" beat="288" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="15" start-beats="0" length-beats="8" id="63428" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
       <Region name="MIDI-1.23" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="6366316" beat="320" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="19" start-beats="0" length-beats="8" id="74118" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
       <Region name="MIDI-1.20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="6684632" beat="336" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="17" start-beats="0" length-beats="8" id="63565" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
       <Region name="MIDI-1.18" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="7002947" beat="352" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="16" start-beats="0" length-beats="8" id="63559" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
       <Region name="MIDI-1.22" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="159158" position="7162105" beat="360" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="18" start-beats="0" length-beats="8" id="64267" type="midi" first-edit="nothing" source-0="54038" master-source-0="54038"/>
+    </Playlist>
+    <Playlist id="103301" name="keys jazz guit.1" type="audio" orig-track-id="103259" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="keys jazz guit-1.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="504829" length="636632" position="3978947" beat="200" sync-position="504829" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103373" type="audio" first-edit="nothing" source-0="103304" master-source-0="103304" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="103374" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="103375" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="103376" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="103377" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="keys jazz guit-1.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="644093" length="19895" position="4277368" beat="215" sync-position="644093" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103478" type="audio" first-edit="nothing" source-0="103304" master-source-0="103304" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="103479" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="103480" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="103481" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="103482" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="keys jazz guit-1.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="504829" length="567000" position="4615579" beat="232.00000264550266" sync-position="504829" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103407" type="audio" first-edit="nothing" source-0="103304" master-source-0="103304" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="103408" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="103409" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="103410" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="103411" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="keys jazz guit-1.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="644093" length="19895" position="4914000" beat="247" sync-position="644093" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103433" type="audio" first-edit="nothing" source-0="103304" master-source-0="103304" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="103434" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="103435" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="103436" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="103437" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
     </Playlist>
   </Playlists>
   <UnusedPlaylists>
@@ -12214,10 +12214,10 @@ this is the original drum setting but the volume was originally -5.4 from the ot
       <Window name="session-options-editor" visible="0" x-off="0" y-off="335" x-size="750" y-size="368"/>
       <Window name="speaker-config" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="about" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="668" y-size="509"/>
+      <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="679" y-size="509"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="inspector" visible="0" x-off="37" y-off="55" x-size="620" y-size="370"/>
-      <Window name="audio-midi-setup" visible="0" x-off="870" y-off="0" x-size="582" y-size="438"/>
+      <Window name="audio-midi-setup" visible="0" x-off="1216" y-off="601" x-size="582" y-size="438"/>
       <Window name="video-export" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="0" x-off="839" y-off="381" x-size="341" y-size="372"/>
       <Window name="bundle-manager" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -12567,6 +12567,15 @@ this is the original drum setting but the volume was originally -5.4 from the ot
       <Window name="PM-6106-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-6118-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-6119-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-103259" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-103259-103290" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-103259-103289" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-103259-103291" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-103259-103292" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-103290-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-103289-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-103291-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-103292-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 54" height="66" visible="1"/>
         <Object id="automation 58" height="66" visible="0"/>
@@ -12875,6 +12884,14 @@ this is the original drum setting but the volume was originally -5.4 from the ot
         <Object id="automation 53841" height="66" visible="0"/>
         <Object id="automation 53845" height="66" visible="0"/>
         <Object id="automation 73952" height="66" visible="1"/>
+        <Object id="strip 103259" visible="1" strip-width="Wide">
+          <Object id="processor 103289"/>
+        </Object>
+        <Object id="rtav 103259" height="66" visible="1"/>
+        <Object id="automation 103263" height="66" visible="0"/>
+        <Object id="automation 103265" height="66" visible="0"/>
+        <Object id="automation 103259 12/0/0" height="66" visible="0"/>
+        <Object id="automation 103278" height="66" visible="0"/>
       </GUIObjectState>
     </UI>
     <Videomonitor active="0"/>
