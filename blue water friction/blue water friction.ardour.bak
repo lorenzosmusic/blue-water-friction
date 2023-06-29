@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="blue water friction" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="265259" name-counter="1" event-counter="367164" vca-counter="1">
+<Session version="6000" name="blue water friction" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="265261" name-counter="1" event-counter="367959" vca-counter="1">
   <ProgramVersion created-with="Ardour 1:5.12.0-3" modified-with="Ardour 6.9.0~ds0-1build1"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
@@ -7019,7 +7019,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
             <AutomationList automation-id="pan-lfe" id="53266" interpolation-style="Linear" state="Off"/>
           </Automation>
         </Pannable>
-        <Controllable name="gaincontrol" id="73952" flags="InlineControl" value="1.5994795658260056e-10"/>
+        <Controllable name="gaincontrol" id="73952" flags="InlineControl" value="5.367002913397192e-05"/>
       </Processor>
       <Processor id="53473" name="Calf Compressor" active="0" user-latency="0" use-user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Compressor" count="1" custom="0">
         <Automation>
@@ -19483,7 +19483,7 @@ Used jazz guitar on the keyboard</Comment>
       <ExportFormat id="13765a92-0ab8-464e-ac1b-a5320572bf7d"/>
       <ExportFilename>
         <Folder relative="1" path="export"/>
-        <Field name="label" enabled="1" value="vocal-sketch-idea"/>
+        <Field name="label" enabled="1" value="vocal-verse-chorus-pass"/>
         <Field name="session" enabled="1"/>
         <Field name="snapshot" enabled="0"/>
         <Field name="timespan" enabled="1"/>
