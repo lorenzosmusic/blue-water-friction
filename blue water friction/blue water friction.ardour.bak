@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="blue water friction" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="442875" name-counter="2" event-counter="410640" vca-counter="1">
+<Session version="6000" name="blue water friction" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="461917" name-counter="2" event-counter="415270" vca-counter="1">
   <ProgramVersion created-with="Ardour 1:5.12.0-3" modified-with="Ardour 6.9.0~ds0-1build1"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
@@ -1243,7 +1243,9 @@
     <CompoundAssociation copy="32353" original="32170"/>
     <CompoundAssociation copy="32362" original="32236"/>
   </CompoundAssociations>
-  <Selection/>
+  <Selection>
+    <StripableAutomationControl stripable="298729" control="0" order="9"/>
+  </Selection>
   <Locations>
     <Location id="256" name="session" start="134289" end="7301368" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1676523992"/>
     <Location id="2362" name="Loop" start="3978947" end="4615579" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1676523992"/>
@@ -1516,7 +1518,7 @@
       <Controllable name="rec-enable" id="200" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="553" name="MIDI trumpet" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" midi-playlist="595" saved-meter-point="MeterPostFader" alignment-choice="Automatic" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="0" restore-pgm="1">
-      <PresentationInfo order="11" flags="MidiTrack,OrderSet" color="1927645695"/>
+      <PresentationInfo order="22" flags="MidiTrack,OrderSet" color="1927645695"/>
       <Controllable name="solo" id="561" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="567" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="569" flags="Toggle" value="0" solo-safe="0"/>
@@ -2025,7 +2027,7 @@ Added a Ping Chip sound from the chip bank in Yoshimi</Comment>
       <Controllable name="rec-enable" id="3537" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="3815" name="guitar" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="3857" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="22" flags="AudioTrack,OrderSet" color="3854004991"/>
+      <PresentationInfo order="24" flags="AudioTrack,OrderSet" color="3854004991"/>
       <Controllable name="solo" id="3823" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="3829" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="3831" flags="Toggle" value="0" solo-safe="0"/>
@@ -2333,7 +2335,7 @@ Added a Ping Chip sound from the chip bank in Yoshimi</Comment>
       <Controllable name="rec-enable" id="6149" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="12299" name="Dub Bass 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="12341" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="26" flags="AudioTrack,OrderSet" color="3853574143"/>
+      <PresentationInfo order="11" flags="AudioTrack,OrderSet" color="3853574143"/>
       <Controllable name="solo" id="12307" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="12313" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="12315" flags="Toggle" value="0" solo-safe="0"/>
@@ -3116,7 +3118,7 @@ Added a Ping Chip sound from the chip bank in Yoshimi</Comment>
       <Controllable name="rec-enable" id="29303" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="29545" name="guitar 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="29480" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="25" flags="AudioTrack,OrderSet" color="3200574975"/>
+      <PresentationInfo order="16" flags="AudioTrack,OrderSet" color="3200574975"/>
       <Controllable name="solo" id="29512" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="29726" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="29727" flags="Toggle" value="0" solo-safe="0"/>
@@ -5192,7 +5194,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
       <Controllable name="rec-enable" id="50096" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="53240" name="trumpet" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="53282" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="21" flags="AudioTrack,OrderSet" color="1923671551"/>
+      <PresentationInfo order="23" flags="AudioTrack,OrderSet" color="1923671551"/>
       <Controllable name="solo" id="53248" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="53254" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="53256" flags="Toggle" value="0" solo-safe="0"/>
@@ -5259,7 +5261,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
       <Controllable name="rec-enable" id="53276" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="53822" name="MIDI" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" midi-playlist="53864" saved-meter-point="MeterPostFader" alignment-choice="Automatic" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1" restore-pgm="1">
-      <PresentationInfo order="13" flags="MidiTrack,OrderSet" color="2206787071"/>
+      <PresentationInfo order="21" flags="MidiTrack,OrderSet" color="2206787071"/>
       <Controllable name="solo" id="53830" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="53836" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="53838" flags="Toggle" value="0" solo-safe="0"/>
@@ -5690,7 +5692,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
       <Controllable name="rec-enable" id="53858" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="103259" name="keys jazz guit" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="103301" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="20" flags="AudioTrack,OrderSet" color="3621250559"/>
+      <PresentationInfo order="19" flags="AudioTrack,OrderSet" color="3621250559"/>
       <Controllable name="solo" id="103267" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="103273" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="103275" flags="Toggle" value="0" solo-safe="0"/>
@@ -5759,7 +5761,7 @@ Used jazz guitar on the keyboard</Comment>
       <Controllable name="rec-enable" id="103295" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="122836" name="Cliff Guitar" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="122878" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="24" flags="AudioTrack,OrderSet" color="2028303103"/>
+      <PresentationInfo order="26" flags="AudioTrack,OrderSet" color="2028303103"/>
       <Controllable name="solo" id="122844" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="122850" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="122852" flags="Toggle" value="0" solo-safe="0"/>
@@ -6116,7 +6118,7 @@ Used jazz guitar on the keyboard</Comment>
       <Controllable name="rec-enable" id="122872" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="124116" name="Cliff Guitar chugga" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="124158" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="23" flags="AudioTrack,OrderSet" color="3504711423"/>
+      <PresentationInfo order="25" flags="AudioTrack,OrderSet" color="3504711423"/>
       <Controllable name="solo" id="124124" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="124130" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="124132" flags="Toggle" value="0" solo-safe="0"/>
@@ -6224,7 +6226,7 @@ Used jazz guitar on the keyboard</Comment>
       <Controllable name="rec-enable" id="124152" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="146300" name="Cliff Guitar 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="146651" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="17" flags="AudioTrack,OrderSet" color="1925047807"/>
+      <PresentationInfo order="15" flags="AudioTrack,OrderSet" color="1925047807"/>
       <Controllable name="solo" id="146308" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="146314" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="146316" flags="Toggle" value="0" solo-safe="0"/>
@@ -6451,7 +6453,7 @@ Used jazz guitar on the keyboard</Comment>
       <Controllable name="rec-enable" id="146340" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="146356" name="Rob Guitar" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="146647" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="16" flags="AudioTrack,OrderSet" color="2693260799"/>
+      <PresentationInfo order="14" flags="AudioTrack,OrderSet" color="2693260799"/>
       <Controllable name="solo" id="146364" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="146370" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="146372" flags="Toggle" value="0" solo-safe="0"/>
@@ -6714,7 +6716,7 @@ Used jazz guitar on the keyboard</Comment>
       <Controllable name="rec-enable" id="146396" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="180885" name="sax bryan" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="180978" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="15" flags="AudioTrack,OrderSet" color="3571806975"/>
+      <PresentationInfo order="20" flags="AudioTrack,OrderSet" color="3571806975"/>
       <Controllable name="solo" id="180893" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="180899" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="180901" flags="Toggle" value="0" solo-safe="0"/>
@@ -6769,7 +6771,7 @@ Used jazz guitar on the keyboard</Comment>
         <Automation>
           <AutomationList automation-id="gain" id="180888" interpolation-style="Exponential" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="180889" flags="GainLike" value="1.0144288539886475"/>
+        <Controllable name="gaincontrol" id="180889" flags="GainLike" value="0.7400132417678833"/>
       </Processor>
       <Processor id="180919" name="meter-sax bryan" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="180920" name="sax bryan" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="sax bryan" type="main-outs" role="Main">
@@ -6781,7 +6783,7 @@ Used jazz guitar on the keyboard</Comment>
       <Controllable name="rec-enable" id="180925" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="195629" name="Sax edited" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="195674" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="14" flags="AudioTrack,OrderSet" color="2833618175"/>
+      <PresentationInfo order="13" flags="AudioTrack,OrderSet" color="2833618175"/>
       <Controllable name="solo" id="195637" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="195643" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="195645" flags="Toggle" value="0" solo-safe="0"/>
@@ -7356,7 +7358,7 @@ Used jazz guitar on the keyboard</Comment>
       <Controllable name="rec-enable" id="195669" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="246116" name="vocals" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="299244" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="18" flags="AudioTrack,OrderSet" color="2296760831"/>
+      <PresentationInfo order="17" flags="AudioTrack,OrderSet" color="2296760831"/>
       <Controllable name="solo" id="246124" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="246130" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="246132" flags="Toggle" value="0" solo-safe="0"/>
@@ -8125,7 +8127,7 @@ Used jazz guitar on the keyboard</Comment>
         <Automation>
           <AutomationList automation-id="gain" id="298732" interpolation-style="Exponential" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="298733" flags="GainLike" value="0.85042184591293335"/>
+        <Controllable name="gaincontrol" id="298733" flags="GainLike" value="0.99999994039535522"/>
       </Processor>
       <Processor id="298856" name="Dragonfly Plate Reverb" active="1" user-latency="0" use-user-latency="0" type="lv2" unique-id="urn:dragonfly:plate" count="1" custom="0">
         <Automation>
@@ -8156,23 +8158,23 @@ Used jazz guitar on the keyboard</Comment>
           <Channelmap type="audio" from="0" to="0"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1" state-dir="state3">
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1" state-dir="state5">
           <Port symbol="dry_level" value="80"/>
-          <Port symbol="early_level" value="20"/>
-          <Port symbol="algorithm" value="2"/>
-          <Port symbol="width" value="50"/>
+          <Port symbol="early_level" value="79.141105651855469"/>
+          <Port symbol="algorithm" value="1"/>
+          <Port symbol="width" value="100"/>
           <Port symbol="predelay" value="0"/>
-          <Port symbol="decay" value="0.30000001192092896"/>
+          <Port symbol="decay" value="0.40000000596046448"/>
           <Port symbol="low_cut" value="200"/>
           <Port symbol="high_cut" value="16000"/>
           <Port symbol="early_damp" value="13000"/>
         </lv2>
         <Controllable name="Dry Level" id="298837" flags="" value="80" parameter="6" symbol="dry_level"/>
-        <Controllable name="Wet Level" id="298838" flags="" value="20" parameter="7" symbol="early_level"/>
-        <Controllable name="Algorithm" id="298839" flags="" value="2" parameter="8" symbol="algorithm"/>
-        <Controllable name="Width" id="298840" flags="" value="50" parameter="9" symbol="width"/>
+        <Controllable name="Wet Level" id="298838" flags="" value="79.141105651855469" parameter="7" symbol="early_level"/>
+        <Controllable name="Algorithm" id="298839" flags="" value="1" parameter="8" symbol="algorithm"/>
+        <Controllable name="Width" id="298840" flags="" value="100" parameter="9" symbol="width"/>
         <Controllable name="Predelay" id="298841" flags="" value="0" parameter="10" symbol="predelay"/>
-        <Controllable name="Decay" id="298842" flags="" value="0.30000001192092896" parameter="11" symbol="decay"/>
+        <Controllable name="Decay" id="298842" flags="" value="0.40000000596046448" parameter="11" symbol="decay"/>
         <Controllable name="Low Cut" id="298843" flags="" value="200" parameter="12" symbol="low_cut"/>
         <Controllable name="High Cut" id="298844" flags="" value="16000" parameter="13" symbol="high_cut"/>
         <Controllable name="Dampen" id="298845" flags="" value="13000" parameter="14" symbol="early_damp"/>
@@ -8311,7 +8313,7 @@ Used jazz guitar on the keyboard</Comment>
       <Slavable/>
     </Route>
     <Route version="6000" id="336530" name="vocal harmony" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="336575" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="19" flags="AudioTrack,OrderSet" color="3849492479"/>
+      <PresentationInfo order="18" flags="AudioTrack,OrderSet" color="3849492479"/>
       <Controllable name="solo" id="336538" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="336544" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="336546" flags="Toggle" value="0" solo-safe="0"/>
@@ -21147,7 +21149,7 @@ Used jazz guitar on the keyboard</Comment>
       <ExportFormat id="13765a92-0ab8-464e-ac1b-a5320572bf7d"/>
       <ExportFilename>
         <Folder relative="1" path="export"/>
-        <Field name="label" enabled="1" value="vocal-harmonies-added"/>
+        <Field name="label" enabled="1" value="chorus-added-after-solo"/>
         <Field name="session" enabled="1"/>
         <Field name="snapshot" enabled="0"/>
         <Field name="timespan" enabled="1"/>
@@ -21218,7 +21220,7 @@ Used jazz guitar on the keyboard</Comment>
       <Window name="PM-54-477" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-38809-38866" visible="0" x-off="1043" y-off="0" x-size="593" y-size="212" custom-ui="1"/>
       <Window name="PM-38809-38866" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-298729-298856" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-298729-298856" visible="0" x-off="768" y-off="0" x-size="675" y-size="379" custom-ui="1"/>
       <Window name="P-298729-299022" visible="0" x-off="219" y-off="0" x-size="1147" y-size="582" custom-ui="1"/>
       <Window name="PM-298729-298856" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-298729-299022" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
