@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="blue water friction" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="461919" name-counter="2" event-counter="416048" vca-counter="1">
+<Session version="6000" name="blue water friction" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="482242" name-counter="2" event-counter="426508" vca-counter="1">
   <ProgramVersion created-with="Ardour 1:5.12.0-3" modified-with="Ardour 6.9.0~ds0-1build1"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
@@ -9,7 +9,7 @@
     <Port name="Scene in" direction="input"/>
     <Port name="Scene out" direction="output"/>
     <Port name="x-virtual-keyboard" direction="output">
-      <Connection other="ardour:MIDI/midi_in 1"/>
+      <Connection other="ardour:MIDI trumpet Ping chip/midi_in 1"/>
     </Port>
   </MIDIPorts>
   <Config>
@@ -371,6 +371,7 @@
     <Region name="bass whole notes-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="258688" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="14755" type="audio" first-edit="nothing" source-0="14736" master-source-0="14736" channels="1"/>
     <Region name="bass whole notes-5" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="7522432" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="14795" type="audio" first-edit="nothing" source-0="14769" master-source-0="14769" channels="1"/>
     <Region name="Dub Bass-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="7311104" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="19471" type="audio" first-edit="nothing" source-0="18849" master-source-0="18849" channels="1"/>
+    <Region name="Dub Bass-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="154184" length="6680876" position="154184" beat="7.7499894179894175" sync-position="154184" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.211908221244812" id="19479" type="audio" first-edit="nothing" source-0="18849" master-source-0="18849" channels="1"/>
     <Region name="Bass.1 compound-1 (1)" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="7203640" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="22400" type="audio" first-edit="nothing" source-0="22398" master-source-0="22398" channels="1">
       <NestedSource>
         <Source name="Bass.1 compound-1 (1)" take-id="" type="audio" flags="" id="22398" playlist="22378" offset="0" length="7203640" original="22398" owner="136164" channel="0">
@@ -963,6 +964,7 @@
     <Region name="sax bryan-5.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5093056" length="62256" position="3978947" beat="199.99998148148146" sync-position="5093056" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="181466" type="audio" first-edit="nothing" source-0="181287" master-source-0="181287" channels="1"/>
     <Region name="sax bryan-2.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="661500" length="179054" position="0" beat="0" sync-position="661500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="195685" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1"/>
     <Region name="sax bryan-2.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="661500" length="179054" position="974842" beat="48.999994708994713" sync-position="661500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="195698" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1"/>
+    <Region name="sax bryan-2.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="661500" length="179054" position="318316" beat="16.000010582010582" sync-position="661500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="195716" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1"/>
     <Region name="sax bryan-2.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1218553" length="89527" position="0" beat="0" sync-position="1218553" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="195740" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1"/>
     <Region name="sax bryan-2.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1218553" length="89527" position="1442368" beat="72.499978835978837" sync-position="1218553" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="195753" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1"/>
     <Region name="sax bryan-2.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4560869" length="139264" position="0" beat="0" sync-position="4560869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="196771" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1"/>
@@ -1234,6 +1236,15 @@
     <Region name="vocal harmony-15" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="478704" position="3720316" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="421317" type="audio" first-edit="nothing" source-0="421306" master-source-0="421306" channels="1"/>
     <Region name="vocal harmony-16" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="555504" position="4231496" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="421355" type="audio" first-edit="nothing" source-0="421344" master-source-0="421344" channels="1"/>
     <Region name="vocal harmony-17" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="287728" position="4854316" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="421393" type="audio" first-edit="nothing" source-0="421383" master-source-0="421383" channels="1"/>
+    <Region name="Dub Bass-2.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="318316" length="6516744" position="318316" beat="16" sync-position="318316" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.211908221244812" id="481130" type="audio" first-edit="nothing" source-0="18849" master-source-0="18849" channels="1"/>
+    <Region name="Dub Bass-2.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="412816" length="6422244" position="412816" beat="20.750010582010582" sync-position="415303" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.211908221244812" id="481161" type="audio" first-edit="nothing" source-0="18849" master-source-0="18849" channels="1"/>
+    <Region name="Dub Bass-2.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1034526" length="5800534" position="1034526" beat="52" sync-position="1034526" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.211908221244812" id="481233" type="audio" first-edit="nothing" source-0="18849" master-source-0="18849" channels="1"/>
+    <Region name="Dub Bass-2.14" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1049447" length="5785613" position="1049447" beat="52.749981481481477" sync-position="1051934" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.211908221244812" id="481264" type="audio" first-edit="nothing" source-0="18849" master-source-0="18849" channels="1"/>
+    <Region name="Dub Bass-2.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1049447" length="5476027" position="1049447" beat="52.749981481481477" sync-position="1049447" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.211908221244812" id="481329" type="audio" first-edit="nothing" source-0="18849" master-source-0="18849" channels="1"/>
+    <Region name="Dub Bass-2.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6525474" length="309586" position="6525474" beat="328" sync-position="6525474" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.211908221244812" id="481338" type="audio" first-edit="nothing" source-0="18849" master-source-0="18849" channels="1"/>
+    <Region name="Dub Bass-2.20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5331789" length="1193685" position="5331789" beat="268" sync-position="5331789" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.211908221244812" id="481839" type="audio" first-edit="nothing" source-0="18849" master-source-0="18849" channels="1"/>
+    <Region name="Dub Bass-2.21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5331789" length="44763" position="5326816" beat="267.75001058201053" sync-position="5331789" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.211908221244812" id="481861" type="audio" first-edit="nothing" source-0="18849" master-source-0="18849" channels="1"/>
+    <Region name="Dub Bass-2.23" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5650105" length="39791" position="0" beat="0" sync-position="5650105" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.211908221244812" id="482101" type="audio" first-edit="nothing" source-0="18849" master-source-0="18849" channels="1"/>
   </Regions>
   <CompoundAssociations>
     <CompoundAssociation copy="22380" original="3773"/>
@@ -1243,14 +1254,10 @@
     <CompoundAssociation copy="32353" original="32170"/>
     <CompoundAssociation copy="32362" original="32236"/>
   </CompoundAssociations>
-  <Selection>
-    <StripableAutomationControl stripable="298729" control="0" order="9"/>
-  </Selection>
+  <Selection/>
   <Locations>
     <Location id="256" name="session" start="134289" end="7301368" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1676523992"/>
     <Location id="2362" name="Loop" start="3978947" end="4615579" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1676523992"/>
-    <Location id="299254" name="xrun" start="616737" end="616737" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1688444668"/>
-    <Location id="300031" name="xrun" start="4037976" end="4037976" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1688445609"/>
     <Location id="377256" name="mark2" start="7001704" end="7001704" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1688538285"/>
   </Locations>
   <Bundles/>
@@ -1744,7 +1751,9 @@ Using yoshimi brass bank simple brass sound</Comment>
       <Controllable name="solo-iso" id="1752" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="1753" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="MIDI trumpet Ping chip" id="1626" direction="Input" default-type="midi">
-        <Port type="midi" name="MIDI trumpet Ping chip/midi_in 1"/>
+        <Port type="midi" name="MIDI trumpet Ping chip/midi_in 1">
+          <Connection other="x-virtual-keyboard"/>
+        </Port>
       </IO>
       <IO name="MIDI trumpet Ping chip" id="1627" direction="Output" default-type="midi">
         <Port type="audio" name="MIDI trumpet Ping chip/audio_out 1">
@@ -1769,7 +1778,8 @@ Using yoshimi brass bank simple brass sound</Comment>
         <AutomationList automation-id="monitor" id="1763" interpolation-style="Discrete" state="Off"/>
       </Automation>
       <Comment>*notes*
-Added a Ping Chip sound from the chip bank in Yoshimi</Comment>
+Added a Ping Chip sound from the chip bank in Yoshimi
+vol was at 2.8</Comment>
       <Pannable>
         <Controllable name="pan-azimuth" id="1628" flags="" value="0.5"/>
         <Controllable name="pan-width" id="1629" flags="" value="1"/>
@@ -1819,7 +1829,7 @@ Added a Ping Chip sound from the chip bank in Yoshimi</Comment>
         <Automation>
           <AutomationList automation-id="gain" id="1647" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="1648" flags="GainLike" value="1.3870737552642822"/>
+        <Controllable name="gaincontrol" id="1648" flags="GainLike" value="0.5642552375793457"/>
       </Processor>
       <Processor id="1688" name="Calf Reverb" active="1" user-latency="0" use-user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Reverb" count="1" custom="0">
         <Automation>
@@ -4214,6 +4224,27 @@ this is the original drum setting but the volume was originally -5.4 from the ot
         <Controllable name="Stereo Link" id="74093" flags="" value="0" parameter="17" symbol="stereo_link"/>
         <Controllable name="Mix" id="74095" flags="" value="1" parameter="19" symbol="mix"/>
       </Processor>
+      <Processor id="481426" name="Plate verb" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="1" type="intsend" role="Aux" bitslot="2" selfdestruct="0" target="298729" allow-feedback="0">
+        <Automation>
+          <AutomationList automation-id="send" id="481439" interpolation-style="Exponential" state="Off"/>
+        </Automation>
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="481430" flags="" value="0.5"/>
+          <Controllable name="pan-width" id="481434" flags="" value="0"/>
+          <Controllable name="pan-elevation" id="481432" flags="" value="0"/>
+          <Controllable name="pan-frontback" id="481436" flags="" value="0"/>
+          <Controllable name="pan-lfe" id="481438" flags="" value="0"/>
+          <Automation>
+            <AutomationList automation-id="pan-azimuth" id="481429" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-elevation" id="481431" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-width" id="481433" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-frontback" id="481435" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-lfe" id="481437" interpolation-style="Linear" state="Off"/>
+          </Automation>
+        </Pannable>
+        <Controllable name="gaincontrol" id="481440" flags="GainLike,InlineControl" value="0.83560812473297119"/>
+      </Processor>
       <Processor id="49852" name="meter-drums 3" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="49853" name="drums 3" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="drums 3" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
@@ -5266,9 +5297,7 @@ this is the original drum setting but the volume was originally -5.4 from the ot
       <Controllable name="solo-iso" id="53836" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="53838" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="MIDI" id="53850" direction="Input" default-type="midi">
-        <Port type="midi" name="MIDI/midi_in 1">
-          <Connection other="x-virtual-keyboard"/>
-        </Port>
+        <Port type="midi" name="MIDI/midi_in 1"/>
       </IO>
       <IO name="MIDI" id="53851" direction="Output" default-type="midi">
         <Port type="audio" name="MIDI/audio_out 1">
@@ -9329,45 +9358,345 @@ Used jazz guitar on the keyboard</Comment>
       </Region>
     </Playlist>
     <Playlist id="12341" name="Dub Bass.1" type="audio" orig-track-id="12299" pgroup-id="" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="Dub Bass-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="154184" length="6680876" position="154184" beat="7.7499894179894175" sync-position="154184" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.211908221244812" id="19479" type="audio" first-edit="nothing" source-0="18849" master-source-0="18849" channels="1">
+      <Region name="Dub Bass-2.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="154184" length="164132" position="154184" beat="7.7499894179894175" sync-position="154184" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.211908221244812" id="481121" type="audio" first-edit="nothing" source-0="18849" master-source-0="18849" channels="1">
         <Envelope>
-          <AutomationList automation-id="envelope" id="234561" interpolation-style="Exponential" state="Off">
+          <AutomationList automation-id="envelope" id="481127" interpolation-style="Exponential" state="Off">
             <events>0 1.0000001997919541
-6371476 1.0000001219263883
-6680876 1.0000001219263883
+164132 1.0000002219263884
 </events>
           </AutomationList>
         </Envelope>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="19480" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="481122" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="19481" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="481123" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="19482" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="481124" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="19483" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="481125" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Dub Bass-2.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7252263" length="58840" position="6776220" beat="340.60365079365079" sync-position="7252263" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.211908221244812" id="377792" type="audio" first-edit="nothing" source-0="18849" master-source-0="18849" channels="1">
+      <Region name="Dub Bass-2.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="318316" length="96987" position="315829" beat="15.875002645502645" sync-position="318316" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.211908221244812" id="481152" type="audio" first-edit="nothing" source-0="18849" master-source-0="18849" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="481158" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000002219263884
+96987 1.0000003203639323
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="481153" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="481154" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="481155" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="481156" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Dub Bass-2.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="412816" length="621710" position="412816" beat="20.750010582010582" sync-position="412816" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.211908221244812" id="481224" type="audio" first-edit="nothing" source-0="18849" master-source-0="18849" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="481230" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000003203639323
+2487 1.0000003203639323
+621710 1.0000004002542882
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="481225" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="481226" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="481227" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="481228" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Dub Bass-2.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1034526" length="17408" position="1032039" beat="51.874976190476197" sync-position="1034526" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.211908221244812" id="481255" type="audio" first-edit="nothing" source-0="18849" master-source-0="18849" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="481261" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000004002542882
+17408 1.0000004993719358
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="481256" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="481257" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="481258" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="481259" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Dub Bass-2.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1049447" length="4282342" position="1049447" beat="52.749981481481477" sync-position="1049447" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.211908221244812" id="481830" type="audio" first-edit="nothing" source-0="18849" master-source-0="18849" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="481836" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000004993719358
+2487 1.0000004993719358
+4282342 1.0000003824425203
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="481831" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="481832" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="481833" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="481834" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Dub Bass-2.24" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5650105" length="37303" position="5331789" beat="267.99997619047622" sync-position="5650105" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.211908221244812" id="482114" type="audio" first-edit="nothing" source-0="18849" master-source-0="18849" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="482120" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000004770923434
+37303 1.0000006682936238
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="482115" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="482116" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="482117" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="482118" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Dub Bass-2.22" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5369092" length="1156382" position="5369092" beat="269.87499470899473" sync-position="5371579" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.211908221244812" id="481870" type="audio" first-edit="nothing" source-0="18849" master-source-0="18849" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="481876" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000004770923434
+2487 1.0000004770923434
+1156382 1.000000221939219
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="481871" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="481872" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="481873" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="481874" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Dub Bass-2.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6525474" length="99473" position="6522987" beat="327.87500793650793" sync-position="6525474" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.211908221244812" id="481360" type="audio" first-edit="nothing" source-0="18849" master-source-0="18849" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="481366" interpolation-style="Exponential" state="Off">
+            <events>0 1.000000221939219
+186 1.0000001219263883
+99473 1.0000002219263884
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="481361" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="481362" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="481363" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="481364" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Dub Bass-2.18" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6622460" length="212600" position="6622460" beat="332.8749735449735" sync-position="6624947" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.211908221244812" id="481369" type="audio" first-edit="nothing" source-0="18849" master-source-0="18849" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="481375" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000002219263884
+2487 1.0000002219263884
+212600 1.0000001219263883
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="481370" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="481371" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="481372" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="481373" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Dub Bass-2.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="7252263" length="58840" position="6776220" beat="340.60365079365079" sync-position="7252263" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.211908221244812" id="377792" type="audio" first-edit="nothing" source-0="18849" master-source-0="18849" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="377798" interpolation-style="Exponential" state="Off">
             <events>0 1.0000003380281657
@@ -9852,7 +10181,7 @@ Used jazz guitar on the keyboard</Comment>
       </Region>
     </Playlist>
     <Playlist id="29480" name="guitar 1.1" type="audio" orig-track-id="29545" pgroup-id="" shared-with-ids="" frozen="0" combine-ops="1">
-      <Region name="guitar-3.54" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="794134" length="69632" position="795789" beat="40" sync-position="794134" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="31270" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
+      <Region name="guitar-3.54" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="794134" length="69632" position="793303" beat="39.875018518518516" sync-position="794134" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="31270" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="31271" interpolation-style="Curved" state="Off">
@@ -9883,7 +10212,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guitar-3.60" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="794134" length="84553" position="1114105" beat="56" sync-position="794134" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="12" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="31697" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
+      <Region name="guitar-3.60" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="794134" length="84553" position="1111619" beat="55.875029100529098" sync-position="794134" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="12" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="31697" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="31698" interpolation-style="Curved" state="Off">
@@ -9914,7 +10243,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guitar-3.57" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1432608" length="158971" position="1432608" beat="72.00939682539682" sync-position="1432608" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="31306" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
+      <Region name="guitar-3.57" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1432608" length="158971" position="1430122" beat="71.884439153439146" sync-position="1432608" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="31306" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="31307" interpolation-style="Curved" state="Off">
@@ -9945,7 +10274,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guitar-3.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1591579" length="159158" position="1749493" beat="87.9375" sync-position="1591579" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="29936" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
+      <Region name="guitar-3.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1591579" length="159158" position="1747007" beat="87.812521164021163" sync-position="1591579" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="29936" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="29937" interpolation-style="Curved" state="Off">
@@ -9976,7 +10305,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guitar-3.19" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1750737" length="159158" position="2064079" beat="103.75" sync-position="1750737" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="29994" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
+      <Region name="guitar-3.19" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1750737" length="159158" position="2061593" beat="103.62504497354497" sync-position="1750737" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="29994" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="29995" interpolation-style="Curved" state="Off">
@@ -10007,7 +10336,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guitar-3.21" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1909895" length="159158" position="2387368" beat="120" sync-position="1909895" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="30021" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
+      <Region name="guitar-3.21" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1909895" length="159158" position="2384882" beat="119.87502116402116" sync-position="1909895" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="30021" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="30022" interpolation-style="Curved" state="Off">
@@ -10038,7 +10367,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guitar-3.61" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2705684" length="79579" position="2705684" beat="136" sync-position="2705684" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="31889" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
+      <Region name="guitar-3.61" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2705684" length="79579" position="2703198" beat="135.87503174603174" sync-position="2705684" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="31889" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="31890" interpolation-style="Curved" state="Off">
@@ -10069,7 +10398,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guitar-3.62" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2864842" length="79579" position="2864842" beat="144" sync-position="2864842" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="31898" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
+      <Region name="guitar-3.62" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2864842" length="79579" position="2862356" beat="143.87503703703703" sync-position="2864842" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="31898" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="31899" interpolation-style="Curved" state="Off">
@@ -10100,7 +10429,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guitar-3.64" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2705684" length="79579" position="3024000" beat="152" sync-position="2705684" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="13" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="32017" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
+      <Region name="guitar-3.64" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2705684" length="79579" position="3021514" beat="151.87504232804233" sync-position="2705684" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="13" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="32017" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="32018" interpolation-style="Curved" state="Off">
@@ -10131,7 +10460,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guitar-3.65" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2864842" length="79579" position="3183158" beat="160" sync-position="2864842" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="14" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="32093" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
+      <Region name="guitar-3.65" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2864842" length="79579" position="3180672" beat="159.87504761904762" sync-position="2864842" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="14" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="32093" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="32094" interpolation-style="Curved" state="Off">
@@ -10162,7 +10491,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guitar-3.73" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1909895" length="74605" position="3342316" beat="168" sync-position="1909895" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="20" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="33605" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
+      <Region name="guitar-3.73" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1909895" length="74605" position="3339830" beat="167.87505291005291" sync-position="1909895" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="20" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="33605" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="33606" interpolation-style="Curved" state="Off">
@@ -10193,7 +10522,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guitar-3.71" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1989474" length="79579" position="3421895" beat="172" sync-position="1989474" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="17" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="33511" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
+      <Region name="guitar-3.71" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1989474" length="79579" position="3419409" beat="171.87505555555558" sync-position="1989474" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="17" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="33511" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="33512" interpolation-style="Curved" state="Off">
@@ -10224,7 +10553,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guitar 1.1 compound-1.10 (1)" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="74605" length="84553" position="3660632" beat="184" sync-position="74605" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="19" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="33173" type="audio" first-edit="nothing" source-0="32371" master-source-0="32371" channels="1">
+      <Region name="guitar 1.1 compound-1.10 (1)" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="74605" length="84553" position="3658146" beat="183.87506349206348" sync-position="74605" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="19" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="33173" type="audio" first-edit="nothing" source-0="32371" master-source-0="32371" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="33174" interpolation-style="Curved" state="Off">
@@ -10255,7 +10584,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guitar-3.70" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1984500" length="84553" position="3735237" beat="187.75" sync-position="1984500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="16" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="33503" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
+      <Region name="guitar-3.70" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1984500" length="84553" position="3732751" beat="187.62505026455025" sync-position="1984500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="16" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="33503" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="33504" interpolation-style="Curved" state="Off">
@@ -10286,7 +10615,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guitar-3.69" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2705684" length="79579" position="3978947" beat="200" sync-position="2705684" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="18" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="32778" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
+      <Region name="guitar-3.69" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2705684" length="79579" position="3976461" beat="199.87502380952384" sync-position="2705684" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="18" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="32778" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="32779" interpolation-style="Curved" state="Off">
@@ -10317,7 +10646,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guitar 1.1 compound-1.1 (1)" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="79579" position="4123184" beat="207.25" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="32381" type="audio" first-edit="nothing" source-0="32371" master-source-0="32371" channels="1">
+      <Region name="guitar 1.1 compound-1.1 (1)" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="79579" position="4120698" beat="207.12503174603177" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="32381" type="audio" first-edit="nothing" source-0="32371" master-source-0="32371" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="32382" interpolation-style="Curved" state="Off">
@@ -10348,7 +10677,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guitar-3.74" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1984500" length="84553" position="4217684" beat="212" sync-position="1984500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="21" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="34221" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
+      <Region name="guitar-3.74" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1984500" length="84553" position="4215198" beat="211.87503174603174" sync-position="1984500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="21" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="34221" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="34222" interpolation-style="Curved" state="Off">
@@ -10379,7 +10708,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guitar-3.75" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1984500" length="84553" position="4292289" beat="215.75" sync-position="1984500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="22" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="34286" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
+      <Region name="guitar-3.75" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1984500" length="84553" position="4289803" beat="215.62501851851849" sync-position="1984500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="22" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="34286" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="34287" interpolation-style="Curved" state="Off">
@@ -10410,7 +10739,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guitar-3.76" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1984500" length="193974" position="4451447" beat="223.75" sync-position="1984500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="23" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="34377" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
+      <Region name="guitar-3.76" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1984500" length="193974" position="4448961" beat="223.62502380952384" sync-position="1984500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="23" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="34377" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="34378" interpolation-style="Curved" state="Off">
@@ -10441,7 +10770,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guitar-3.77" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="794134" length="69632" position="5888842" beat="296" sync-position="794134" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="25" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="63504" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
+      <Region name="guitar-3.77" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="794134" length="69632" position="5886356" beat="295.87503703703703" sync-position="794134" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="25" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="63504" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="63505" interpolation-style="Curved" state="Off">
@@ -10472,7 +10801,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guitar-3.72" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="794134" length="84553" position="6207158" beat="312.00000529100527" sync-position="794134" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="24" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="63494" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
+      <Region name="guitar-3.72" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="794134" length="84553" position="6204672" beat="311.87504761904762" sync-position="794134" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="24" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="63494" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="63495" interpolation-style="Curved" state="Off">
@@ -10503,7 +10832,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="guitar-3.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="790816" length="164131" position="6842733" beat="343.94689682539683" sync-position="790816" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="29864" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
+      <Region name="guitar-3.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="790816" length="164131" position="6840247" beat="343.82193915343919" sync-position="790816" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.3283325433731079" id="29864" type="audio" first-edit="nothing" source-0="3938" master-source-0="3938" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="29865" interpolation-style="Curved" state="Off">
@@ -15641,7 +15970,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Cliff Guitar 1-5.75" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="591869" length="44763" position="6544313" beat="328.94694973544972" sync-position="591869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="31" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="166473" type="audio" first-edit="nothing" source-0="146738" master-source-0="146738" channels="1">
+      <Region name="Cliff Guitar 1-5.75" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="591869" length="44763" position="6542882" beat="328.87502116402112" sync-position="591869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="31" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="166473" type="audio" first-edit="nothing" source-0="146738" master-source-0="146738" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="166479" interpolation-style="Exponential" state="Off">
             <events>0 1.0000003558451895
@@ -15905,44 +16234,81 @@ Used jazz guitar on the keyboard</Comment>
       </Region>
     </Playlist>
     <Playlist id="195674" name="Sax edited" type="audio" orig-track-id="195629" pgroup-id="" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="sax bryan-2.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="661500" length="179054" position="318316" beat="16.000010582010582" sync-position="661500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="195716" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.80" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="661500" length="79579" position="315829" beat="15.875002645502645" sync-position="661500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="481533" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
-          <AutomationList automation-id="envelope" id="195722" interpolation-style="Exponential" state="Off">
+          <AutomationList automation-id="envelope" id="481539" interpolation-style="Exponential" state="Off">
             <events>0 1
-179054 1.0000001000000001
+79579 1.0000001444441344
 </events>
           </AutomationList>
         </Envelope>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="195717" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="481534" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="195718" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="481535" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="195719" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="481536" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="195720" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="481537" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="661500" length="79579" position="557053" beat="28.00001851851852" sync-position="661500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="195801" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.81" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="741079" length="99475" position="395408" beat="19.875005291005291" sync-position="741079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="481541" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="481547" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000001444441344
+99475 1.0000001000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="481542" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="481543" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="481544" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="481545" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="sax bryan-2.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="661500" length="79579" position="552079" beat="27.750002645502644" sync-position="661500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="195801" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="195807" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -15979,7 +16345,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.7" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1218553" length="89527" position="756000" beat="38" sync-position="1218553" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="195771" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.7" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1218553" length="89527" position="756000" beat="38" sync-position="1218553" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="195771" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="195777" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -16016,7 +16382,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.26" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4560869" length="18731" position="954947" beat="47.999981481481477" sync-position="4560869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="211896" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.26" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4560869" length="18731" position="954947" beat="47.999981481481477" sync-position="4560869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="211896" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="211902" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -16055,7 +16421,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.34" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4560869" length="136776" position="954947" beat="47.999981481481477" sync-position="4560869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="19" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="229282" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.34" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4560869" length="136776" position="954947" beat="47.999981481481477" sync-position="4560869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="20" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="229282" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="229288" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -16092,7 +16458,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.71" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="800764" length="19895" position="954947" beat="47.999981481481477" sync-position="800764" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="27" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.59246933460235596" id="357120" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.71" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="800764" length="19895" position="954947" beat="47.999981481481477" sync-position="800764" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="28" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.59246933460235596" id="357120" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="357126" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -16129,7 +16495,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.25" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4633827" length="38950" position="974842" beat="48.999994708994713" sync-position="4633827" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="211875" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.25" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4633827" length="38950" position="974842" beat="48.999994708994713" sync-position="4633827" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="211875" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="211881" interpolation-style="Exponential" state="Off">
             <events>0 1.0000005238669578
@@ -16168,7 +16534,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.27" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4570817" length="47250" position="1014632" beat="51.000021164021163" sync-position="4570817" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="211905" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.27" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4570817" length="47250" position="1014632" beat="51.000021164021163" sync-position="4570817" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="211905" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="211911" interpolation-style="Exponential" state="Off">
             <events>0 1.0000001269172591
@@ -16205,7 +16571,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.31" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4560869" length="18731" position="1273263" beat="63.999992063492058" sync-position="4560869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="16" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="214418" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.31" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4560869" length="18731" position="1273263" beat="63.999992063492058" sync-position="4560869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="17" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="214418" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="214424" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -16244,7 +16610,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.72" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="800764" length="19895" position="1273263" beat="63.999992063492058" sync-position="800764" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="28" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.59246933460235596" id="357200" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.72" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="800764" length="19895" position="1273263" beat="63.999992063492058" sync-position="800764" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="29" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.59246933460235596" id="357200" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="357206" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -16281,7 +16647,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.33" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4632663" length="40114" position="1291994" beat="64.941497354497358" sync-position="4632663" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="18" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="214438" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.33" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4632663" length="40114" position="1291994" beat="64.941497354497358" sync-position="4632663" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="19" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="214438" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="214444" interpolation-style="Exponential" state="Off">
             <events>0 1.0000005238669578
@@ -16321,7 +16687,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.32" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4570817" length="47250" position="1332948" beat="67.000031746031738" sync-position="4570817" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="17" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="214428" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.32" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4570817" length="47250" position="1332948" beat="67.000031746031738" sync-position="4570817" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="18" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="214428" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="214434" interpolation-style="Exponential" state="Off">
             <events>0 1.0000001269172591
@@ -16358,7 +16724,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4560869" length="136776" position="1591579" beat="80.000002645502633" sync-position="4560869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="196908" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4560869" length="136776" position="1591579" beat="80.000002645502633" sync-position="4560869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="196908" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="196914" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -16395,7 +16761,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.73" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="800764" length="19895" position="1591579" beat="80.000002645502633" sync-position="800764" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="29" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.59246933460235596" id="357218" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.73" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="800764" length="19895" position="1591579" beat="80.000002645502633" sync-position="800764" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="30" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.59246933460235596" id="357218" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="357224" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -16432,7 +16798,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.74" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="800764" length="19895" position="1908651" beat="95.937484126984117" sync-position="800764" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="30" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.59246933460235596" id="357236" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.74" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="800764" length="19895" position="1908651" beat="95.937484126984117" sync-position="800764" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="31" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.59246933460235596" id="357236" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="357242" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -16469,7 +16835,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.16" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4560869" length="136776" position="1909895" beat="96.000013227513222" sync-position="4560869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="196926" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.16" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4560869" length="136776" position="1909895" beat="96.000013227513222" sync-position="4560869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="196926" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="196932" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -16506,7 +16872,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.37" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4560869" length="18731" position="1909895" beat="96.000013227513222" sync-position="4560869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="22" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="229320" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.37" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4560869" length="18731" position="1909895" beat="96.000013227513222" sync-position="4560869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="23" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="229320" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="229326" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -16545,7 +16911,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.36" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4631340" length="41437" position="1927303" beat="96.875018518518516" sync-position="4631340" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="21" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="229310" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.36" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4631340" length="41437" position="1927303" beat="96.875018518518516" sync-position="4631340" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="22" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="229310" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="229316" interpolation-style="Exponential" state="Off">
             <events>0 1.0000005238669578
@@ -16585,7 +16951,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.35" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4570817" length="47250" position="1969580" beat="99.000052910052915" sync-position="4570817" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="20" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="229300" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.35" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4570817" length="47250" position="1969580" beat="99.000052910052915" sync-position="4570817" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="21" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="229300" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="229306" interpolation-style="Exponential" state="Off">
             <events>0 1.0000001269172591
@@ -16622,7 +16988,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="661500" length="179054" position="2228211" beat="112.0000238095238" sync-position="661500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="196944" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="661500" length="179054" position="2225724" beat="111.87501587301588" sync-position="661500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="196944" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="196950" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -16659,7 +17025,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.18" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="661500" length="79579" position="2466948" beat="124.00003174603175" sync-position="661500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="196954" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.18" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="661500" length="79579" position="2464461" beat="123.8750238095238" sync-position="661500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="196954" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="196960" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -16696,7 +17062,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.63" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2650974" length="559540" position="2785263" beat="139.99999206349207" sync-position="2650974" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="25" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="337124" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.63" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2650974" length="559540" position="2785263" beat="139.99999206349207" sync-position="2650974" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="26" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="337124" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="337130" interpolation-style="Exponential" state="Off">
             <events>0 1.0000001173307835
@@ -16733,7 +17099,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.68" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2650974" length="54711" position="3083684" beat="154.99998941798938" sync-position="2650974" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="26" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="356384" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.68" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2650974" length="54711" position="3083684" beat="154.99998941798938" sync-position="2650974" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="27" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="356384" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="356390" interpolation-style="Exponential" state="Off">
             <events>0 1.0000001173307835
@@ -16770,7 +17136,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4560869" length="136776" position="3501474" beat="176.00001587301588" sync-position="4560869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="196977" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4560869" length="136776" position="3501474" beat="176.00001587301588" sync-position="4560869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="11" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="196977" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="196983" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -16807,7 +17173,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.75" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="800764" length="19895" position="3501474" beat="176.00001587301588" sync-position="800764" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="31" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.59246933460235596" id="357254" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.75" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="800764" length="19895" position="3501474" beat="176.00001587301588" sync-position="800764" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="32" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.59246933460235596" id="357254" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="357260" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -16844,7 +17210,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="661500" length="179054" position="4774737" beat="240.00000793650793" sync-position="661500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="12" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="197005" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="661500" length="179054" position="4772250" beat="239.875" sync-position="661500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="13" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="197005" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="197011" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -16881,11 +17247,12 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="661500" length="79579" position="5013474" beat="252.00001587301585" sync-position="661500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="11" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="196995" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="661500" length="201434" position="5090566" beat="255.87501058201056" sync-position="661500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="12" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="196995" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="197001" interpolation-style="Exponential" state="Off">
             <events>0 1
 79579 1.0000001444441344
+201434 1.0000001444441344
 </events>
           </AutomationList>
         </Envelope>
@@ -16918,7 +17285,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.25" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4560869" length="136776" position="5411368" beat="271.99997883597882" sync-position="4560869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="197067" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.25" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4560869" length="136776" position="5411368" beat="271.99997883597882" sync-position="4560869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="16" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="197067" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="197073" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -16955,7 +17322,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.76" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="800764" length="19895" position="5411368" beat="271.99997883597882" sync-position="800764" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="32" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.59246933460235596" id="357284" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.76" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="800764" length="19895" position="5411368" beat="271.99997883597882" sync-position="800764" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="33" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.59246933460235596" id="357284" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="357290" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -16992,7 +17359,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.24" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4560869" length="136776" position="5570526" beat="279.99998412698415" sync-position="4560869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="14" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="197057" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.24" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4560869" length="136776" position="5570526" beat="279.99998412698415" sync-position="4560869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="197057" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="197063" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -17029,7 +17396,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.77" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="800764" length="19895" position="5570526" beat="279.99998412698415" sync-position="800764" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="33" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.59246933460235596" id="357320" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.77" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="800764" length="19895" position="5570526" beat="279.99998412698415" sync-position="800764" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="34" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.59246933460235596" id="357320" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="357326" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -17066,7 +17433,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.23" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4560869" length="136776" position="6048000" beat="304" sync-position="4560869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="13" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="197047" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.23" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4560869" length="136776" position="6048000" beat="304" sync-position="4560869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="14" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="197047" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="197053" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -17103,7 +17470,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.78" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="800764" length="19895" position="6048000" beat="304" sync-position="800764" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="34" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.59246933460235596" id="357338" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.78" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="800764" length="19895" position="6048000" beat="304" sync-position="800764" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="35" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.59246933460235596" id="357338" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="357344" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -17140,7 +17507,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.49" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="661500" length="79579" position="6685190" beat="336.02806878306876" sync-position="661500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="23" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="230315" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.49" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="661500" length="79579" position="6685190" beat="336.02806878306876" sync-position="661500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="24" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="230315" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="230321" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -17177,7 +17544,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.52" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4560869" length="136776" position="6685190" beat="336.02806878306876" sync-position="4560869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="24" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="230369" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.52" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4560869" length="136776" position="6685190" beat="336.02806878306876" sync-position="4560869" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="25" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="230369" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="230375" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -17214,7 +17581,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="sax bryan-2.79" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="800764" length="19895" position="6685190" beat="336.02806878306876" sync-position="800764" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="35" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.59246933460235596" id="357356" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
+      <Region name="sax bryan-2.79" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="800764" length="19895" position="6685190" beat="336.02806878306876" sync-position="800764" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="36" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.59246933460235596" id="357356" type="audio" first-edit="nothing" source-0="180980" master-source-0="180980" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="357362" interpolation-style="Exponential" state="Off">
             <events>0 1
@@ -21146,10 +21513,10 @@ Used jazz guitar on the keyboard</Comment>
           <Port name="Master/audio_out 2"/>
         </Channel>
       </ExportChannelConfiguration>
-      <ExportFormat id="13765a92-0ab8-464e-ac1b-a5320572bf7d"/>
+      <ExportFormat id="20b4ab09-6452-4cb3-bd66-b921cdbd2942"/>
       <ExportFilename>
         <Folder relative="1" path="export"/>
-        <Field name="label" enabled="1" value="adjusted-plate-vocals-effect"/>
+        <Field name="label" enabled="1" value="tightened-up-parts"/>
         <Field name="session" enabled="1"/>
         <Field name="snapshot" enabled="0"/>
         <Field name="timespan" enabled="1"/>
@@ -21163,7 +21530,7 @@ Used jazz guitar on the keyboard</Comment>
       <Window name="session-options-editor" visible="0" x-off="0" y-off="335" x-size="750" y-size="368"/>
       <Window name="speaker-config" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="about" visible="0" x-off="0" y-off="0" x-size="424" y-size="611"/>
-      <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="671" y-size="503"/>
+      <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="652" y-size="503"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="inspector" visible="0" x-off="57" y-off="57" x-size="620" y-size="370"/>
       <Window name="audio-midi-setup" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -21192,22 +21559,22 @@ Used jazz guitar on the keyboard</Comment>
       <Window name="RPM-49964" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-50012" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-50060" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-553" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-12299" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-1625" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-53822" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-195629" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-180885" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-146356" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-146300" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-29545" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-246116" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-336530" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-103259" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-180885" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-53822" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-553" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-53240" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-3815" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-124116" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-122836" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-29545" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-12299" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-28473" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-25056" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-29040" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -21232,28 +21599,22 @@ Used jazz guitar on the keyboard</Comment>
       <Window name="P-49868-357549" visible="0" x-off="883" y-off="0" x-size="1037" y-size="708" custom-ui="1"/>
       <Window name="PM-49868-357545" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-49868-357549" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-553-626" visible="0" x-off="1053" y-off="42" x-size="20" y-size="20" custom-ui="1"/>
-      <Window name="P-553-883" visible="0" x-off="660" y-off="0" x-size="806" y-size="334" custom-ui="1"/>
-      <Window name="P-553-1467" visible="0" x-off="340" y-off="0" x-size="847" y-size="404" custom-ui="1"/>
-      <Window name="PM-553-626" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-553-883" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-553-1467" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-12299-28936" visible="0" x-off="0" y-off="19" x-size="968" y-size="466" custom-ui="1"/>
+      <Window name="P-12299-28788" visible="0" x-off="0" y-off="0" x-size="1110" y-size="780" custom-ui="1"/>
+      <Window name="P-12299-158392" visible="0" x-off="1151" y-off="0" x-size="769" y-size="455" custom-ui="1"/>
+      <Window name="P-12299-19641" visible="0" x-off="0" y-off="31" x-size="943" y-size="427" custom-ui="1"/>
+      <Window name="P-12299-158462" visible="0" x-off="1360" y-off="0" x-size="382" y-size="522" custom-ui="1"/>
+      <Window name="PM-12299-28936" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-12299-28788" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-12299-158392" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-12299-19641" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-12299-158462" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-1625-1644" visible="0" x-off="753" y-off="48" x-size="20" y-size="20" custom-ui="1"/>
       <Window name="P-1625-1688" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-1625-1737" visible="0" x-off="340" y-off="0" x-size="847" y-size="404" custom-ui="1"/>
       <Window name="PM-1625-1644" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-1625-1688" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-1625-1737" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-53822-54089" visible="0" x-off="58" y-off="61" x-size="20" y-size="20" custom-ui="1"/>
-      <Window name="P-53822-54102" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-53822-54184" visible="0" x-off="1073" y-off="0" x-size="847" y-size="404" custom-ui="1"/>
-      <Window name="P-53822-54210" visible="0" x-off="1073" y-off="0" x-size="847" y-size="404" custom-ui="1"/>
-      <Window name="P-53822-54236" visible="0" x-off="435" y-off="563" x-size="806" y-size="334" custom-ui="1"/>
-      <Window name="PM-53822-54089" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-53822-54102" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-53822-54184" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-53822-54210" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-53822-54236" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-195629-196459" visible="0" x-off="755" y-off="0" x-size="1037" y-size="708" custom-ui="1"/>
       <Window name="PM-195629-196459" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-146356-159923" visible="0" x-off="1151" y-off="0" x-size="769" y-size="455" custom-ui="1"/>
@@ -21264,6 +21625,16 @@ Used jazz guitar on the keyboard</Comment>
       <Window name="P-146300-167358" visible="0" x-off="1276" y-off="0" x-size="550" y-size="214" custom-ui="1"/>
       <Window name="PM-146300-158480" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-146300-167358" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-29545-29607" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-29545-29654" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-29545-38899" visible="0" x-off="910" y-off="0" x-size="858" y-size="713" custom-ui="1"/>
+      <Window name="P-29545-38799" visible="0" x-off="1043" y-off="0" x-size="593" y-size="212" custom-ui="1"/>
+      <Window name="P-29545-29701" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-29545-29607" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-29545-29654" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-29545-38899" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-29545-38799" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-29545-29701" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-246116-299091" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-246116-356709" visible="0" x-off="883" y-off="0" x-size="1037" y-size="708" custom-ui="1"/>
       <Window name="P-246116-357021" visible="0" x-off="776" y-off="0" x-size="1144" y-size="582" custom-ui="1"/>
@@ -21273,6 +21644,22 @@ Used jazz guitar on the keyboard</Comment>
       <Window name="P-336530-420962" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="PM-336530-420790" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-336530-420962" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-53822-54089" visible="0" x-off="58" y-off="61" x-size="20" y-size="20" custom-ui="1"/>
+      <Window name="P-53822-54102" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-53822-54184" visible="0" x-off="1073" y-off="0" x-size="847" y-size="404" custom-ui="1"/>
+      <Window name="P-53822-54210" visible="0" x-off="1073" y-off="0" x-size="847" y-size="404" custom-ui="1"/>
+      <Window name="P-53822-54236" visible="0" x-off="435" y-off="563" x-size="806" y-size="334" custom-ui="1"/>
+      <Window name="PM-53822-54089" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-53822-54102" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-53822-54184" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-53822-54210" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-53822-54236" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-553-626" visible="0" x-off="1053" y-off="42" x-size="20" y-size="20" custom-ui="1"/>
+      <Window name="P-553-883" visible="0" x-off="660" y-off="0" x-size="806" y-size="334" custom-ui="1"/>
+      <Window name="P-553-1467" visible="0" x-off="340" y-off="0" x-size="847" y-size="404" custom-ui="1"/>
+      <Window name="PM-553-626" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-553-883" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-553-1467" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-3815-4094" visible="0" x-off="0" y-off="81" x-size="1034" y-size="338" custom-ui="1"/>
       <Window name="P-3815-4187" visible="0" x-off="0" y-off="0" x-size="896" y-size="516" custom-ui="1"/>
       <Window name="P-3815-4067" visible="0" x-off="0" y-off="37" x-size="943" y-size="427" custom-ui="1"/>
@@ -21287,26 +21674,6 @@ Used jazz guitar on the keyboard</Comment>
       <Window name="PM-122836-124006" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-122836-124089" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-122836-123995" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-29545-29607" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-29545-29654" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-29545-38899" visible="0" x-off="910" y-off="0" x-size="858" y-size="713" custom-ui="1"/>
-      <Window name="P-29545-38799" visible="0" x-off="1043" y-off="0" x-size="593" y-size="212" custom-ui="1"/>
-      <Window name="P-29545-29701" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-29545-29607" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-29545-29654" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-29545-38899" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-29545-38799" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-29545-29701" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-12299-28936" visible="0" x-off="0" y-off="19" x-size="968" y-size="466" custom-ui="1"/>
-      <Window name="P-12299-28788" visible="0" x-off="0" y-off="0" x-size="1110" y-size="780" custom-ui="1"/>
-      <Window name="P-12299-158392" visible="0" x-off="1151" y-off="0" x-size="769" y-size="455" custom-ui="1"/>
-      <Window name="P-12299-19641" visible="0" x-off="0" y-off="31" x-size="943" y-size="427" custom-ui="1"/>
-      <Window name="P-12299-158462" visible="0" x-off="1360" y-off="0" x-size="382" y-size="522" custom-ui="1"/>
-      <Window name="PM-12299-28936" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-12299-28788" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-12299-158392" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-12299-19641" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-12299-158462" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 54" height="66" visible="1"/>
         <Object id="automation 58" height="66" visible="0"/>
@@ -21564,6 +21931,41 @@ Used jazz guitar on the keyboard</Comment>
             <Object id="control 1734" visible="0"/>
             <Object id="control 1735" visible="0"/>
             <Object id="control 1736" visible="0"/>
+          </Object>
+          <Object id="processor 481447">
+            <Object id="control 481449" visible="0"/>
+            <Object id="control 481451" visible="0"/>
+            <Object id="control 481453" visible="0"/>
+            <Object id="control 481455" visible="0"/>
+            <Object id="control 481457" visible="0"/>
+            <Object id="control 481459" visible="0"/>
+            <Object id="control 481461" visible="0"/>
+            <Object id="control 481463" visible="0"/>
+            <Object id="control 481465" visible="0"/>
+            <Object id="control 481467" visible="0"/>
+            <Object id="control 481469" visible="0"/>
+            <Object id="control 481471" visible="0"/>
+            <Object id="control 481473" visible="0"/>
+            <Object id="control 481475" visible="0"/>
+            <Object id="control 481477" visible="0"/>
+            <Object id="control 481479" visible="0"/>
+            <Object id="control 481481" visible="0"/>
+            <Object id="control 481483" visible="0"/>
+            <Object id="control 481485" visible="0"/>
+            <Object id="control 481487" visible="0"/>
+            <Object id="control 481489" visible="0"/>
+            <Object id="control 481491" visible="0"/>
+            <Object id="control 481493" visible="0"/>
+            <Object id="control 481495" visible="0"/>
+            <Object id="control 481497" visible="0"/>
+            <Object id="control 481499" visible="0"/>
+            <Object id="control 481501" visible="0"/>
+            <Object id="control 481503" visible="0"/>
+            <Object id="control 481505" visible="0"/>
+            <Object id="control 481507" visible="0"/>
+            <Object id="control 481509" visible="0"/>
+            <Object id="control 481511" visible="0"/>
+            <Object id="InlineDisplay" visible="1"/>
           </Object>
         </Object>
         <Object id="strip 2153" strip-width="Wide" visible="1">
@@ -22484,6 +22886,9 @@ Used jazz guitar on the keyboard</Comment>
             <Object id="control 74091" visible="0"/>
             <Object id="control 74093" visible="0"/>
             <Object id="control 74095" visible="0"/>
+          </Object>
+          <Object id="processor 481426">
+            <Object id="control 481440" visible="1"/>
           </Object>
         </Object>
         <Object id="strip 49868" visible="1" strip-width="Wide">
