@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="blue water friction" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="549011" name-counter="2" event-counter="457998" vca-counter="1">
+<Session version="6000" name="blue water friction" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="570152" name-counter="2" event-counter="469706" vca-counter="1">
   <ProgramVersion created-with="Ardour 1:5.12.0-3" modified-with="Ardour 6.9.0~ds0-1build1"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
@@ -1351,10 +1351,10 @@
     <CompoundAssociation copy="32362" original="32236"/>
   </CompoundAssociations>
   <Selection>
-    <StripableAutomationControl stripable="49820" control="0" order="63"/>
+    <StripableAutomationControl stripable="1625" control="0" order="2"/>
   </Selection>
   <Locations>
-    <Location id="256" name="session" start="134289" end="7301368" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1676523992"/>
+    <Location id="256" name="session" start="159157" end="7301368" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1676523992"/>
     <Location id="2362" name="Loop" start="3978947" end="4615579" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1676523992"/>
     <Location id="377256" name="mark2" start="7001704" end="7001704" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1688538285"/>
   </Locations>
@@ -9293,9 +9293,7 @@ Used jazz guitar on the keyboard</Comment>
       <Controllable name="solo-iso" id="336544" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="336546" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="vocal harmony" id="336558" direction="Input" default-type="audio">
-        <Port type="audio" name="vocal harmony/audio_in 1">
-          <Connection other="system:capture_13"/>
-        </Port>
+        <Port type="audio" name="vocal harmony/audio_in 1"/>
       </IO>
       <IO name="vocal harmony" id="336559" direction="Output" default-type="audio">
         <Port type="audio" name="vocal harmony/audio_out 1">
@@ -9987,9 +9985,7 @@ Used jazz guitar on the keyboard</Comment>
       <Controllable name="solo-iso" id="501566" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="501568" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="double vocals" id="501580" direction="Input" default-type="audio">
-        <Port type="audio" name="double vocals/audio_in 1">
-          <Connection other="system:capture_13"/>
-        </Port>
+        <Port type="audio" name="double vocals/audio_in 1"/>
       </IO>
       <IO name="double vocals" id="501581" direction="Output" default-type="audio">
         <Port type="audio" name="double vocals/audio_out 1">
@@ -12686,7 +12682,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="drums 3-8.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4528539" length="2091435" position="4593197" beat="230.87498148148146" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103785" type="audio" first-edit="nothing" source-0="52255" master-source-0="52255" channels="1">
+      <Region name="drums 3-8.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4528539" length="2091435" position="4593197" beat="230.87498148148146" sync-position="4528539" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103785" type="audio" first-edit="nothing" source-0="52255" master-source-0="52255" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="364702" interpolation-style="Exponential" state="Off">
             <events>0 1.0000001003845558
@@ -12905,7 +12901,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="drums 4-8.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4528539" length="2091435" position="4593197" beat="230.87498148148146" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103690" type="audio" first-edit="nothing" source-0="52280" master-source-0="52280" channels="1">
+      <Region name="drums 4-8.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4528539" length="2091435" position="4593197" beat="230.87498148148146" sync-position="4528539" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103690" type="audio" first-edit="nothing" source-0="52280" master-source-0="52280" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="364770" interpolation-style="Exponential" state="Off">
             <events>0 1.0000001003845558
@@ -13124,7 +13120,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="drums 5-8.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4528539" length="2091435" position="4593197" beat="230.87498148148146" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103709" type="audio" first-edit="nothing" source-0="52305" master-source-0="52305" channels="1">
+      <Region name="drums 5-8.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4528539" length="2091435" position="4593197" beat="230.87498148148146" sync-position="4528539" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103709" type="audio" first-edit="nothing" source-0="52305" master-source-0="52305" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="364829" interpolation-style="Exponential" state="Off">
             <events>0 1.0000001003845558
@@ -13343,7 +13339,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="drums 6-8.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4528539" length="2091435" position="4593197" beat="230.87498148148146" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103728" type="audio" first-edit="nothing" source-0="52330" master-source-0="52330" channels="1">
+      <Region name="drums 6-8.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4528539" length="2091435" position="4593197" beat="230.87498148148146" sync-position="4528539" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103728" type="audio" first-edit="nothing" source-0="52330" master-source-0="52330" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="364888" interpolation-style="Exponential" state="Off">
             <events>0 1.0000001003845558
@@ -13600,7 +13596,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="drums 7-8.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4528539" length="2091435" position="4593197" beat="230.87498148148146" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103747" type="audio" first-edit="nothing" source-0="52355" master-source-0="52355" channels="1">
+      <Region name="drums 7-8.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4528539" length="2091435" position="4593197" beat="230.87498148148146" sync-position="4528539" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103747" type="audio" first-edit="nothing" source-0="52355" master-source-0="52355" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="364947" interpolation-style="Exponential" state="Off">
             <events>0 1.0000001003845558
@@ -13819,7 +13815,7 @@ Used jazz guitar on the keyboard</Comment>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="drums 8-8.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4528539" length="2091435" position="4593197" beat="230.87498148148146" sync-position="4521079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103766" type="audio" first-edit="nothing" source-0="52379" master-source-0="52379" channels="1">
+      <Region name="drums 8-8.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4528539" length="2091435" position="4593197" beat="230.87498148148146" sync-position="4528539" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="103766" type="audio" first-edit="nothing" source-0="52379" master-source-0="52379" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="365006" interpolation-style="Exponential" state="Off">
             <events>0 1.0000001003845558
@@ -23712,13 +23708,13 @@ Used jazz guitar on the keyboard</Comment>
       <ExportFormat id="20b4ab09-6452-4cb3-bd66-b921cdbd2942"/>
       <ExportFilename>
         <Folder relative="1" path="export"/>
-        <Field name="label" enabled="1" value="ending-drums"/>
+        <Field name="label" enabled="1" value="keys"/>
         <Field name="session" enabled="1"/>
         <Field name="snapshot" enabled="0"/>
-        <Field name="timespan" enabled="1"/>
+        <Field name="timespan" enabled="0"/>
         <Field name="revision" enabled="0"/>
         <Field name="time" enabled="0" value="T_None"/>
-        <Field name="date" enabled="1" value="D_BEShortY"/>
+        <Field name="date" enabled="0" value="D_None"/>
       </ExportFilename>
     </ExportProfile>
     <UI>
@@ -23782,20 +23778,36 @@ Used jazz guitar on the keyboard</Comment>
       <Window name="RPM-39125" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-54-477" visible="0" x-off="640" y-off="0" x-size="847" y-size="404" custom-ui="1"/>
       <Window name="PM-54-477" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-49820-73990" visible="0" x-off="1062" y-off="0" x-size="858" y-size="713" custom-ui="1"/>
+      <Window name="P-49820-74073" visible="0" x-off="1073" y-off="0" x-size="847" y-size="404" custom-ui="1"/>
+      <Window name="PM-49820-73990" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-49820-74073" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-38809-38866" visible="0" x-off="1043" y-off="0" x-size="593" y-size="212" custom-ui="1"/>
       <Window name="PM-38809-38866" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-298729-298856" visible="0" x-off="914" y-off="0" x-size="675" y-size="379" custom-ui="1"/>
       <Window name="P-298729-299022" visible="0" x-off="219" y-off="0" x-size="1147" y-size="582" custom-ui="1"/>
       <Window name="PM-298729-298856" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-298729-299022" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-49820-73990" visible="0" x-off="1062" y-off="0" x-size="858" y-size="713" custom-ui="1"/>
-      <Window name="P-49820-74073" visible="0" x-off="1073" y-off="0" x-size="847" y-size="404" custom-ui="1"/>
-      <Window name="PM-49820-73990" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-49820-74073" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-49724-548117" visible="0" x-off="491" y-off="494" x-size="769" y-size="455" custom-ui="1"/>
+      <Window name="PM-49724-548117" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-49772-548257" visible="0" x-off="466" y-off="528" x-size="818" y-size="386" custom-ui="1"/>
+      <Window name="P-49772-548187" visible="0" x-off="491" y-off="494" x-size="769" y-size="455" custom-ui="1"/>
+      <Window name="PM-49772-548257" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-49772-548187" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-49868-357545" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-49868-357549" visible="0" x-off="883" y-off="0" x-size="1037" y-size="708" custom-ui="1"/>
       <Window name="PM-49868-357545" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-49868-357549" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-49916-547867" visible="0" x-off="491" y-off="494" x-size="769" y-size="455" custom-ui="1"/>
+      <Window name="P-49916-547937" visible="0" x-off="466" y-off="528" x-size="818" y-size="386" custom-ui="1"/>
+      <Window name="PM-49916-547867" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-49916-547937" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-49964-548047" visible="0" x-off="491" y-off="494" x-size="769" y-size="455" custom-ui="1"/>
+      <Window name="PM-49964-548047" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-50012-547658" visible="0" x-off="491" y-off="494" x-size="769" y-size="455" custom-ui="1"/>
+      <Window name="PM-50012-547658" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-50060-547863" visible="0" x-off="491" y-off="494" x-size="769" y-size="455" custom-ui="1"/>
+      <Window name="PM-50060-547863" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-12299-28936" visible="0" x-off="0" y-off="19" x-size="968" y-size="466" custom-ui="1"/>
       <Window name="P-12299-28788" visible="0" x-off="0" y-off="0" x-size="1110" y-size="780" custom-ui="1"/>
       <Window name="P-12299-158392" visible="0" x-off="1151" y-off="0" x-size="769" y-size="455" custom-ui="1"/>
@@ -23873,22 +23885,6 @@ Used jazz guitar on the keyboard</Comment>
       <Window name="PM-122836-124006" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-122836-124089" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-122836-123995" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-50012-547658" visible="0" x-off="936" y-off="0" x-size="769" y-size="455" custom-ui="1"/>
-      <Window name="PM-50012-547658" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-50060-547863" visible="0" x-off="936" y-off="0" x-size="769" y-size="455" custom-ui="1"/>
-      <Window name="PM-50060-547863" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-49916-547867" visible="0" x-off="936" y-off="0" x-size="769" y-size="455" custom-ui="1"/>
-      <Window name="PM-49916-547867" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-49916-547937" visible="0" x-off="911" y-off="0" x-size="818" y-size="386" custom-ui="1"/>
-      <Window name="PM-49916-547937" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-49964-548047" visible="0" x-off="936" y-off="0" x-size="769" y-size="455" custom-ui="1"/>
-      <Window name="PM-49964-548047" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-49724-548117" visible="0" x-off="936" y-off="0" x-size="769" y-size="455" custom-ui="1"/>
-      <Window name="PM-49724-548117" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-49772-548187" visible="0" x-off="936" y-off="0" x-size="769" y-size="455" custom-ui="1"/>
-      <Window name="PM-49772-548187" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-49772-548257" visible="0" x-off="911" y-off="0" x-size="818" y-size="386" custom-ui="1"/>
-      <Window name="PM-49772-548257" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 54" height="66" visible="1"/>
         <Object id="automation 58" height="66" visible="0"/>
