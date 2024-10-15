@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="blue water friction" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="654664" name-counter="2" event-counter="492516" vca-counter="1">
+<Session version="6000" name="blue water friction" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="675792" name-counter="2" event-counter="492929" vca-counter="1">
   <ProgramVersion created-with="Ardour 1:5.12.0-3" modified-with="Ardour 6.9.0~ds0-1build1"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
@@ -23599,7 +23599,7 @@ Used jazz guitar on the keyboard</Comment>
     </Playlist>
   </UnusedPlaylists>
   <RouteGroups>
-    <RouteGroup id="50211" rgba="2647713023" used-to-share-gain="0" name="drums" hidden="0" active="1" relative="1" gain="1" mute="1" solo="1" recenable="1" select="1" route-active="1" color="1" monitoring="1" group-master-number="-1" routes="49724 49772 49820 49868 49916 49964 50012 50060 "/>
+    <RouteGroup id="50211" rgba="2647713023" used-to-share-gain="0" name="drums" hidden="0" active="0" relative="1" gain="1" mute="1" solo="1" recenable="1" select="1" route-active="1" color="1" monitoring="1" group-master-number="-1" routes="49724 49772 49820 49868 49916 49964 50012 50060 "/>
   </RouteGroups>
   <Click>
     <IO name="Click" id="51" direction="Output" default-type="audio">

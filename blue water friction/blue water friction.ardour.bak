@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="blue water friction" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="633536" name-counter="2" event-counter="492124" vca-counter="1">
+<Session version="6000" name="blue water friction" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="654664" name-counter="2" event-counter="492516" vca-counter="1">
   <ProgramVersion created-with="Ardour 1:5.12.0-3" modified-with="Ardour 6.9.0~ds0-1build1"/>
-  <EngineHints backend="JACK" input-device="HDA Intel PCH" output-device="HDA Intel PCH"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
     <Port name="MMC in" direction="input"/>
@@ -1351,9 +1350,7 @@
     <CompoundAssociation copy="32353" original="32170"/>
     <CompoundAssociation copy="32362" original="32236"/>
   </CompoundAssociations>
-  <Selection>
-    <StripableAutomationControl stripable="501552" control="0" order="10"/>
-  </Selection>
+  <Selection/>
   <Locations>
     <Location id="256" name="session" start="159157" end="7301368" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1676523992"/>
     <Location id="2362" name="Loop" start="3978947" end="4615579" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1676523992"/>
@@ -1445,8 +1442,6 @@
       </IO>
       <IO name="Master" id="83" direction="Output" default-type="audio">
         <Port type="audio" name="Master/audio_out 1">
-          <Connection other="OBS Studio: JACK Input Client:in_1"/>
-          <Connection other="OBS Studio: JACK Input Client:in_2"/>
           <Connection other="system:playback_1"/>
         </Port>
         <Port type="audio" name="Master/audio_out 2">
