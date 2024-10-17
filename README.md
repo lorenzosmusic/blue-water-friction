@@ -4,11 +4,11 @@
 This is a song recorded by the experimental rock creative commons band [Lorenzo's Music](https://www.lorenzosmusic.com/?utm_source=github&utm_medium=bandlink&utm_campaign=bluewaterfrictionreadme) using only open-source tools and software.
 
 # The Song
-Here is the [final recording from this session on YouTube](https://youtu.be/GrU7zJW69Fo)
-[![Lorenzo's Music - Blue water friction - audio](https://i.ytimg.com/vi/GrU7zJW69Fo/maxresdefault.jpg)](https://youtu.be/GrU7zJW69Fo)
+Here is the [finished song on YouTube](https://youtu.be/26pFdq5DaoU)
+[![Lorenzo's Music - Blue water friction - audio](https://i.ytimg.com/vi/26pFdq5DaoU/maxresdefault.jpg)](https://youtu.be/26pFdq5DaoU)
 
 You can also **download this song from our website**
-[https://www.lorenzosmusic.com/2024/06/friction-called-quest-by-lorenzos-music.html](https://www.lorenzosmusic.com/2024/06/friction-called-quest-by-lorenzos-music.html?utm_source=github&utm_medium=frictionquestsonglink&utm_campaign=readme)
+[https://www.lorenzosmusic.com/2024/10/blue-water-friction-by-lorenzos-music.html](https://www.lorenzosmusic.com/2024/10/blue-water-friction-by-lorenzos-music.html?utm_source=github&utm_medium=frictionquestsonglink&utm_campaign=readme)
 
 # The GitHub for music Concept
 ## We decided to create an experimental recording method.
@@ -53,4 +53,4 @@ If you create anything from this song, remix it or build anything from it let us
 You can message us on Twitter [@lorenzosmusic](https://twitter.com/lorenzosmusic) or email us from the contact section on our website [here at lorenzosmusic.com](https://www.lorenzosmusic.com/p/contact.html?utm_source=github&utm_medium=contactlink&utm_campaign=bluewaterfrictionreadme)
 
 ---
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://www.lorenzosmusic.com/2024/06/friction-called-quest-by-lorenzos-music.html">Blue water friction</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.lorenzosmusic.com/">Lorenzo's Music</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://www.lorenzosmusic.com/2024/10/blue-water-friction-by-lorenzos-music.html">Blue water friction</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.lorenzosmusic.com/">Lorenzo's Music</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
